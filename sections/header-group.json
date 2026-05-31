@@ -72,7 +72,7 @@
         "mobile_header_layout": "center-left",
         "sticky_header_type": "none",
         "logo": "shopify://shop_images/rtyyrt-removebg-preview.png",
-        "logo_width": 100,
+        "logo_width": 50,
         "logo_width_mobile": 100,
         "show_social_icons": false,
         "enable_on_homepage": true,
@@ -98,6 +98,24 @@
         "padding_top_mobile": 16,
         "padding_bottom_mobile": 16
       }
+    },
+    "blocks_GWpNd3": {
+      "type": "_blocks",
+      "blocks": {
+        "ai_gen_block_95f02b0_f7RQTV": {
+          "type": "ai_gen_block_95f02b0",
+          "settings": {
+            "desktop_height": 50,
+            "mobile_height": 30
+          },
+          "blocks": {}
+        }
+      },
+      "block_order": [
+        "ai_gen_block_95f02b0_f7RQTV"
+      ],
+      "name": "Spacer",
+      "settings": {}
     },
     "mobile-navigation": {
       "type": "mobile-navigation",
@@ -133,11 +151,30 @@
         "highlight_color_light": "rgba(0,0,0,0)",
         "highlight_color_dark": "rgba(0,0,0,0)"
       }
+    },
+    "178018608333a1508f": {
+      "type": "_blocks",
+      "blocks": {
+        "ai_gen_block_95f02b0_G3Uapk": {
+          "type": "ai_gen_block_95f02b0",
+          "settings": {
+            "desktop_height": 50,
+            "mobile_height": 30
+          },
+          "blocks": {}
+        }
+      },
+      "block_order": [
+        "ai_gen_block_95f02b0_G3Uapk"
+      ],
+      "settings": {}
     }
   },
   "order": [
     "announcement-bar",
     "header",
-    "mobile-navigation"
+    "blocks_GWpNd3",
+    "mobile-navigation",
+    "178018608333a1508f"
   ]
 }
