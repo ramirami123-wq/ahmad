@@ -303,31 +303,31 @@
         "frequently_asked_question_cCBAj6": {
           "type": "frequently_asked_question",
           "settings": {
-            "icon": "heart",
+            "icon": "faq",
             "another_icon": "",
             "custom_icon": "",
-            "heading": "What does this eye device do?",
-            "row_content": "<p><br/>Our eye care device is designed to help relax the eye area, reduce the appearance of puffiness, and support a refreshed, well-rested look using gentle light and soothing technology.<br/><br/></p>"
+            "heading": "How long does delivery take?",
+            "row_content": "<p>Our standard delivery time is <strong>5–7 business days</strong>. Delivery times may vary depending on your location and order volume.</p><h3></h3>"
           }
         },
         "frequently_asked_question_kjDnG9": {
           "type": "frequently_asked_question",
           "settings": {
-            "icon": "heart",
+            "icon": "faq",
             "another_icon": "",
             "custom_icon": "",
-            "heading": "Is it safe to use daily?",
-            "row_content": "<p>Yes, the device is designed for regular use. However, we recommend following the usage guidelines and consulting a professional if you have any medical concerns.<br/><br/></p>"
+            "heading": "Do you offer Cash on Delivery (COD)?",
+            "row_content": "<p>Yes, we offer <strong>Cash on Delivery (COD)</strong> for your convenience. You can pay for your order when it arrives at your doorstep.</p><p><br/></p>"
           }
         },
         "frequently_asked_question_4dJVT3": {
           "type": "frequently_asked_question",
           "settings": {
-            "icon": "heart",
+            "icon": "faq",
             "another_icon": "",
             "custom_icon": "",
-            "heading": "How long does it take to see results?",
-            "row_content": "<p>Results may vary, but many users notice a more relaxed and refreshed feeling immediately, with visible improvements over consistent use.</p>"
+            "heading": "How can I contact customer support?",
+            "row_content": "<p>You can reach us anytime through <strong>WhatsApp</strong> for questions, order updates, or support.</p><p></p>"
           }
         }
       },
