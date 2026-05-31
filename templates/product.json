@@ -312,12 +312,12 @@
         "heading_pf9z9Y": {
           "type": "heading",
           "settings": {
-            "subheading": "Example subheading",
-            "heading": "Image with text",
+            "subheading": "",
+            "heading": "Natural Mosquito Protection",
             "highlight_type": "underline",
             "heading_base_size": 100,
             "heading_tag": "h2",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "text": "<p>Enjoy outdoor activities with confidence using our Mosquito Repellent Hand Strap. Infused with natural plant-based essential oils, it helps keep mosquitoes away while providing a fresh and pleasant scent. Perfect for daily use, travel, camping, and family outings.</p><h3></h3>",
             "number_of_lines_shown": "none",
             "read_more_label": "Read more",
             "see_less_label": "See less",
@@ -335,6 +335,7 @@
       ],
       "name": "t:sections.image-with-text.presets.name",
       "settings": {
+        "image": "shopify://shop_images/1779363732_phpmco1furn1li6dN45o9e.jpg",
         "show_sound_control": false,
         "video_url": "",
         "video_alt_text": "",
@@ -423,12 +424,12 @@
         "heading_phxWYV": {
           "type": "heading",
           "settings": {
-            "subheading": "Example subheading",
-            "heading": "Image with text",
+            "subheading": "",
+            "heading": "Comfortable, Waterproof & Family-Friendly",
             "highlight_type": "underline",
             "heading_base_size": 100,
             "heading_tag": "h2",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "text": "<p>Designed for both children and adults, this lightweight and adjustable bracelet offers all-day comfort. Its waterproof construction makes it ideal for sports, hiking, and outdoor adventures, ensuring reliable protection wherever you go.</p>",
             "number_of_lines_shown": "none",
             "read_more_label": "Read more",
             "see_less_label": "See less",
@@ -446,6 +447,7 @@
       ],
       "name": "t:sections.image-with-text.presets.name",
       "settings": {
+        "image": "shopify://shop_images/1779363731_phpj8gqd4vv57a22OAO7O7.png",
         "show_sound_control": false,
         "video_url": "",
         "video_alt_text": "",
