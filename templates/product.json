@@ -41,7 +41,7 @@
         "html_riyhhe": {
           "type": "html",
           "settings": {
-            "custom_html": "<div style=\"padding: 12px; text-align: left; background-color: #f9f9f9; font-size: 15px; border-radius: 12px; margin-top: 10px; margin-bottom: 10px; line-height: 1.6;\">\n<span style=\"font-weight: bold;\">😌 Relax & Refresh Instantly</span> – Soothe tired eyes and unwind after long screen time or a busy day.<br><br>\n<span style=\"font-weight: bold;\">🔴 Advanced Light Therapy</span> – Gentle red light helps support a brighter, more youthful-looking eye area.<br><br>\n<span style=\"font-weight: bold;\">✨ Reduce Puffiness & Dark Circles</span> – Enjoy a smoother, revitalized appearance with regular use.\n</div>"
+            "custom_html": "<div style=\"padding: 12px; text-align: left; background-color: #f9f9f9; font-size: 15px; border-radius: 12px; margin-top: 10px; margin-bottom: 10px; line-height: 1.6;\">\n<span style=\"font-weight: bold;\">🦟 Natural Mosquito Protection</span> – Infused with plant-based essential oils to help keep mosquitoes away naturally.<br><br>\n\n<span style=\"font-weight: bold;\">💧 Waterproof & Durable</span> – Designed for outdoor activities, sports, hiking, camping, and everyday use in any weather.<br><br>\n\n<span style=\"font-weight: bold;\">👨‍👩‍👧‍👦 Safe for All Ages</span> – Comfortable and adjustable design suitable for both children and adults.<br><br>\n\n<span style=\"font-weight: bold;\">🎒 Lightweight & Comfortable</span> – Easy to wear on your wrist all day without discomfort while enjoying outdoor activities.<br><br>\n\n<span style=\"font-weight: bold;\">🌿 Fresh Essential Oil Formula</span> – Made with natural plant extracts, providing a pleasant scent while helping repel mosquitoes.\n</div>"
           }
         },
         "quantity_selector": {
@@ -270,7 +270,7 @@
         "text_DYJtQn": {
           "type": "text",
           "settings": {
-            "text": "Talk about your brand",
+            "text": "Enjoy the outdoors without the buzz",
             "highlight_type": "underline",
             "text_size": 100,
             "text_color": "primary",
@@ -381,7 +381,7 @@
         "text_pycbn8": {
           "type": "text",
           "settings": {
-            "text": "Talk about your brand",
+            "text": "Natural protection, all-day comfort.",
             "highlight_type": "underline",
             "text_size": 100,
             "text_color": "primary",
@@ -484,6 +484,71 @@
         "full_width_mobile": false,
         "top_padding_mobile": 0,
         "bottom_padding_mobile": 0
+      }
+    },
+    "comparison_table_4W6FV6": {
+      "type": "comparison-table",
+      "blocks": {
+        "criterion_rNJJc4": {
+          "type": "criterion",
+          "settings": {
+            "heading": "Criterion label",
+            "criterion_detail_product": "Yes",
+            "criterion_detail_externals": "No\nNo\nNo\nNo"
+          }
+        },
+        "criterion_4NELMY": {
+          "type": "criterion",
+          "settings": {
+            "heading": "Criterion label",
+            "criterion_detail_product": "Yes",
+            "criterion_detail_externals": "No\nNo\nNo\nNo"
+          }
+        },
+        "criterion_yUcU3i": {
+          "type": "criterion",
+          "settings": {
+            "heading": "Criterion label",
+            "criterion_detail_product": "Yes",
+            "criterion_detail_externals": "No\nNo\nNo\nNo"
+          }
+        }
+      },
+      "block_order": [
+        "criterion_rNJJc4",
+        "criterion_4NELMY",
+        "criterion_yUcU3i"
+      ],
+      "name": "t:sections.comparision-table.name",
+      "settings": {
+        "heading": "Us vs Them",
+        "highlight_type": "underline",
+        "heading_size": 100,
+        "heading_tag": "h2",
+        "heading_alignment": "center",
+        "description": "",
+        "product": "mosquito-repellent-hand-strap",
+        "alternative_text": "",
+        "external_item_labels": "Others",
+        "background_color_light": "rgba(0,0,0,0)",
+        "heading_light": "rgba(0,0,0,0)",
+        "color_heading_highlight_light": "rgba(0,0,0,0)",
+        "text_light": "rgba(0,0,0,0)",
+        "column_highlight_light": "rgba(0,0,0,0)",
+        "line_border": "rgba(0,0,0,0)",
+        "background_color_dark": "rgba(0,0,0,0)",
+        "heading_dark": "rgba(0,0,0,0)",
+        "color_heading_highlight_dark": "rgba(0,0,0,0)",
+        "text_dark": "rgba(0,0,0,0)",
+        "column_highlight_dark": "rgba(0,0,0,0)",
+        "line_border_dark": "rgba(0,0,0,0)",
+        "full_width": false,
+        "show_section_divider": false,
+        "padding_top": 28,
+        "padding_bottom": 28,
+        "show_section_divider_mobile": false,
+        "padding_top_mobile": 28,
+        "padding_bottom_mobile": 28
       }
     },
     "faq_byLxM7": {
@@ -660,6 +725,7 @@
     "image_with_text_pny4DB",
     "scrolling_banner_cXMWJF",
     "image_with_text_3DwQRt",
+    "comparison_table_4W6FV6",
     "faq_byLxM7",
     "1774373014960824ac",
     "331e6fca-2947-4a19-89c5-9396be0d666a"
