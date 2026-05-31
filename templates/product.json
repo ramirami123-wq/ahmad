@@ -559,41 +559,41 @@
         "frequently_asked_question_tdwyep": {
           "type": "frequently_asked_question",
           "settings": {
-            "icon": "heart",
+            "icon": "faq",
             "another_icon": "",
             "custom_icon": "",
-            "heading": "Frequently asked question",
-            "row_content": "<p>Use this text to answer questions in as much detail as possible for your customers.</p>"
+            "heading": "Is the bracelet safe for children?",
+            "row_content": "<p><strong>Yes</strong>, it is designed to be comfortable and suitable for both children and adults.<br/><br/></p>"
           }
         },
         "frequently_asked_question_qKUeCx": {
           "type": "frequently_asked_question",
           "settings": {
-            "icon": "heart",
+            "icon": "faq",
             "another_icon": "",
             "custom_icon": "",
-            "heading": "Frequently asked question",
-            "row_content": "<p>Use this text to answer questions in as much detail as possible for your customers.</p>"
+            "heading": "Is the bracelet waterproof?",
+            "row_content": "<p><strong>Yes</strong>, the strap is waterproof and perfect for outdoor activities.<br/><br/></p>"
           }
         },
         "frequently_asked_question_p9THCx": {
           "type": "frequently_asked_question",
           "settings": {
-            "icon": "heart",
+            "icon": "faq",
             "another_icon": "",
             "custom_icon": "",
-            "heading": "Frequently asked question",
-            "row_content": "<p>Use this text to answer questions in as much detail as possible for your customers.</p>"
+            "heading": "How does the bracelet work?",
+            "row_content": "<p><br/>It uses natural essential oils that help repel mosquitoes while providing a pleasant scent.<br/><br/></p>"
           }
         },
         "frequently_asked_question_KdBJC7": {
           "type": "frequently_asked_question",
           "settings": {
-            "icon": "heart",
+            "icon": "faq",
             "another_icon": "",
             "custom_icon": "",
-            "heading": "Frequently asked question",
-            "row_content": "<p>Use this text to answer questions in as much detail as possible for your customers.</p>"
+            "heading": "Where can I use the mosquito repellent bracelet?",
+            "row_content": "<p><br/>It is ideal for camping, hiking, traveling, parks, gardens, sports, and everyday outdoor activities.<br/><br/></p>"
           }
         }
       },
