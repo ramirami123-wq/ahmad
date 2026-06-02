@@ -72,7 +72,7 @@
         "mobile_header_layout": "center-left",
         "sticky_header_type": "none",
         "logo": "shopify://shop_images/rtyyrt-removebg-preview.png",
-        "logo_width": 80,
+        "logo_width": 140,
         "logo_width_mobile": 100,
         "show_social_icons": false,
         "enable_on_homepage": true,
