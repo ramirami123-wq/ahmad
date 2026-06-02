@@ -403,6 +403,7 @@
         "column_6RTcNP",
         "column_BgiaHn"
       ],
+      "disabled": true,
       "name": "t:sections.multicolumn.presets.name",
       "settings": {
         "title": "",
