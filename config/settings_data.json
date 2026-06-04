@@ -124,7 +124,7 @@
     "share_facebook": true,
     "share_twitter": true,
     "share_pinterest": true,
-    "share_whatsapp": false,
+    "share_whatsapp": true,
     "share_telegram": false,
     "share_email": false,
     "share_sms": false,
