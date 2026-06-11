@@ -14,6 +14,14 @@
     "quick_links": {
       "type": "quick-links",
       "blocks": {
+        "link_list_yBQJWh": {
+          "type": "link_list",
+          "settings": {
+            "title": "Quick link",
+            "url": "",
+            "open_new_window_button": false
+          }
+        },
         "link_list_trXGRy": {
           "type": "link_list",
           "settings": {
@@ -40,6 +48,7 @@
         }
       },
       "block_order": [
+        "link_list_yBQJWh",
         "link_list_trXGRy",
         "link_list_MBmGzm",
         "link_list_HPpnKn"
