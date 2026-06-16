@@ -41,7 +41,7 @@
         "html_riyhhe": {
           "type": "html",
           "settings": {
-            "custom_html": "<div style=\"padding: 12px; text-align: left; background-color: #f9f9f9; font-size: 15px; border-radius: 12px; margin-top: 10px; margin-bottom: 10px; line-height: 1.6;\">\n<span style=\"font-weight: bold;\">🦟 Natural Mosquito Protection</span> – Infused with plant-based essential oils to help keep mosquitoes away naturally.<br><br>\n\n<span style=\"font-weight: bold;\">💧 Waterproof & Durable</span> – Designed for outdoor activities, sports, hiking, camping, and everyday use in any weather.<br><br>\n\n<span style=\"font-weight: bold;\">👨‍👩‍👧‍👦 Safe for All Ages</span> – Comfortable and adjustable design suitable for both children and adults.<br><br>\n\n<span style=\"font-weight: bold;\">🎒 Lightweight & Comfortable</span> – Easy to wear on your wrist all day without discomfort while enjoying outdoor activities.<br><br>\n\n<span style=\"font-weight: bold;\">🌿 Fresh Essential Oil Formula</span> – Made with natural plant extracts, providing a pleasant scent while helping repel mosquitoes.\n</div>"
+            "custom_html": "{% if product.id == 7928097210446 %}\n  <!-- Your HTML content here -->\n{% endif %}"
           }
         },
         "quantity_selector": {
