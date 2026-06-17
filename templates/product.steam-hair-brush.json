@@ -425,11 +425,11 @@
           "type": "heading",
           "settings": {
             "subheading": "",
-            "heading": "Comfortable, Waterproof & Family-Friendly",
+            "heading": "Hydration in Every Stroke",
             "highlight_type": "underline",
             "heading_base_size": 100,
             "heading_tag": "h2",
-            "text": "<p>Designed for both children and adults, this lightweight and adjustable bracelet offers all-day comfort. Its waterproof construction makes it ideal for sports, hiking, and outdoor adventures, ensuring reliable protection wherever you go.</p>",
+            "text": "<p><br/>Ultra-fine mist spray hydrates and nourishes hair while brushing, helping reduce dryness, prevent breakage, and promote smoother, healthier-looking hair with every stroke.<br/><br/></p>",
             "number_of_lines_shown": "none",
             "read_more_label": "Read more",
             "see_less_label": "See less",
@@ -447,7 +447,7 @@
       ],
       "name": "t:sections.image-with-text.presets.name",
       "settings": {
-        "image": "shopify://shop_images/1779363731_phpj8gqd4vv57a22OAO7O7.png",
+        "image": "shopify://shop_images/ChatGPT_Image_Jun_17_2026_02_46_39_PM.png",
         "show_sound_control": false,
         "video_url": "",
         "video_alt_text": "",
@@ -494,7 +494,7 @@
         "criterion_rNJJc4": {
           "type": "criterion",
           "settings": {
-            "heading": "Natural Essential Oils",
+            "heading": "Fine Mist Hydration",
             "criterion_detail_product": "Yes",
             "criterion_detail_externals": "No\nNo\nNo\nNo"
           }
@@ -502,7 +502,7 @@
         "criterion_4NELMY": {
           "type": "criterion",
           "settings": {
-            "heading": "Waterproof Design",
+            "heading": "Works with Hair Serums & Essential Oils",
             "criterion_detail_product": "Yes",
             "criterion_detail_externals": "No\nNo\nNo\nNo"
           }
@@ -510,7 +510,7 @@
         "criterion_yUcU3i": {
           "type": "criterion",
           "settings": {
-            "heading": "Ideal for Outdoor Activities",
+            "heading": "Easy to Clean",
             "criterion_detail_product": "Yes",
             "criterion_detail_externals": "No\nNo\nNo\nNo"
           }
@@ -529,7 +529,7 @@
         "heading_tag": "h2",
         "heading_alignment": "center",
         "description": "",
-        "product": "mosquito-repellent-hand-strap",
+        "product": "steam-hair-brush",
         "alternative_text": "",
         "external_item_labels": "Others",
         "background_color_light": "rgba(0,0,0,0)",
