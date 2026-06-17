@@ -41,7 +41,7 @@
         "html_riyhhe": {
           "type": "html",
           "settings": {
-            "custom_html": "<div style=\"padding: 12px; text-align: left; background-color: #f9f9f9; font-size: 15px; border-radius: 12px; margin-top: 10px; margin-bottom: 10px; line-height: 1.6;\">\n<span style=\"font-weight: bold;\">🦟 Natural Mosquito Protection</span> – Infused with plant-based essential oils to help keep mosquitoes away naturally.<br><br>\n\n<span style=\"font-weight: bold;\">💧 Waterproof & Durable</span> – Designed for outdoor activities, sports, hiking, camping, and everyday use in any weather.<br><br>\n\n<span style=\"font-weight: bold;\">👨‍👩‍👧‍👦 Safe for All Ages</span> – Comfortable and adjustable design suitable for both children and adults.<br><br>\n\n<span style=\"font-weight: bold;\">🎒 Lightweight & Comfortable</span> – Easy to wear on your wrist all day without discomfort while enjoying outdoor activities.<br><br>\n\n<span style=\"font-weight: bold;\">🌿 Fresh Essential Oil Formula</span> – Made with natural plant extracts, providing a pleasant scent while helping repel mosquitoes.\n</div>"
+            "custom_html": "<div style=\"padding: 12px; text-align: left; background-color: #f9f9f9; font-size: 15px; border-radius: 12px; margin-top: 10px; margin-bottom: 10px; line-height: 1.6;\">\n<span style=\"font-weight: bold;\">✨ 2-in-1 Electric Hair Mist Massage Brush</span> – Transform your daily hair care routine with this innovative electric hair brush featuring a built-in mist spray system and scalp massage function.<br><br>\n\n<span style=\"font-weight: bold;\">💖 Key Features:</span> • Fine mist spray hydrates hair while brushing\n• Helps distribute hair serums and essential oils evenly\n• Gentle scalp massage promotes relaxation and comfort\n• One-touch hair removal for quick and easy cleaning\n• Soft rounded bristles reduce pulling and breakage\n• Large-capacity liquid reservoir\n• Lightweight, cordless, and rechargeable design\n• Suitable for all hair types<br><br>\n\n<span style=\"font-weight: bold;\">🌿 Add water or your favorite hair essence for a spa-like hair care experience at home.</span> <br><br>"
           }
         },
         "quantity_selector": {
@@ -313,11 +313,11 @@
           "type": "heading",
           "settings": {
             "subheading": "",
-            "heading": "Natural Mosquito Protection",
+            "heading": "Effortless Grooming and Massage",
             "highlight_type": "underline",
             "heading_base_size": 100,
             "heading_tag": "h2",
-            "text": "<p>Enjoy outdoor activities with confidence using our Mosquito Repellent Hand Strap. Infused with natural plant-based essential oils, it helps keep mosquitoes away while providing a fresh and pleasant scent. Perfect for daily use, travel, camping, and family outings.</p><h3></h3>",
+            "text": "<p>Effortless grooming and scalp massage in one innovative brush. Features a one-click retractable design for quick hair removal and easy cleaning, an integrated liquid reservoir compatible with water or essential oils, and soft rounded bristles that gently detangle hair while providing a soothing scalp massage experience.</p>",
             "number_of_lines_shown": "none",
             "read_more_label": "Read more",
             "see_less_label": "See less",
@@ -335,7 +335,7 @@
       ],
       "name": "t:sections.image-with-text.presets.name",
       "settings": {
-        "image": "shopify://shop_images/1779363732_phpmco1furn1li6dN45o9e.jpg",
+        "image": "shopify://shop_images/ChatGPT_Image_Jun_17_2026_02_30_07_PM.png",
         "show_sound_control": false,
         "video_url": "",
         "video_alt_text": "",
