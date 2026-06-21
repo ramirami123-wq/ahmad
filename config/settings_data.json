@@ -164,6 +164,7 @@
     "show_in_cart_items": "show_item",
     "enable_scroll_top_desktop": true,
     "currency_code_enable": false,
+    "additional_head": "<style>\n  #template--20817245110350__main__description .block-heading {\n    font-weight: bold;\n  }\n</style>",
     "selected_preset": "breeze",
     "show_icon_button": true,
     "checkout_sidebar_background_color": "#f8f8f8",
