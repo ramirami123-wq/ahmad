@@ -313,11 +313,11 @@
           "type": "heading",
           "settings": {
             "subheading": "",
-            "heading": "⚡ Charge Smarter.Watch Better.Play Longer.",
+            "heading": "Charge Smarter.Watch Better.Play Longer.",
             "highlight_type": "underline",
             "heading_base_size": 80,
             "heading_tag": "h2",
-            "text": "<p>📱 Portrait & Landscape Viewing</p><p>🔄 Multi-Angle Adjustable Stand</p><p>✨ Ergonomic Rounded Design</p><p>🛡️ Premium Alloy Frame & Braided Cable</p><p>⚡ 240W Fast Charging Support</p>",
+            "text": "<p>Portrait & Landscape Viewing</p><p>Multi-Angle Adjustable Stand</p><p>Ergonomic Rounded Design</p><p>Premium Alloy Frame & Braided Cable</p><p>240W Fast Charging Support</p>",
             "number_of_lines_shown": "none",
             "read_more_label": "Read more",
             "see_less_label": "See less",
@@ -425,11 +425,11 @@
           "type": "heading",
           "settings": {
             "subheading": "",
-            "heading": "Comfortable, Waterproof & Family-Friendly",
+            "heading": "Watch While You Charge",
             "highlight_type": "underline",
             "heading_base_size": 100,
             "heading_tag": "h2",
-            "text": "<p>Designed for both children and adults, this lightweight and adjustable bracelet offers all-day comfort. Its waterproof construction makes it ideal for sports, hiking, and outdoor adventures, ensuring reliable protection wherever you go.</p>",
+            "text": "<p>The integrated foldable stand lets you enjoy hands-free viewing in portrait or landscape mode while your device charges, making streaming and browsing more comfortable than ever.</p>",
             "number_of_lines_shown": "none",
             "read_more_label": "Read more",
             "see_less_label": "See less",
@@ -447,7 +447,7 @@
       ],
       "name": "t:sections.image-with-text.presets.name",
       "settings": {
-        "image": "shopify://shop_images/1779363731_phpj8gqd4vv57a22OAO7O7.png",
+        "image": "shopify://shop_images/ChatGPT_Image_Jun_21_2026_04_55_14_PM.png",
         "show_sound_control": false,
         "video_url": "",
         "video_alt_text": "",
@@ -494,7 +494,7 @@
         "criterion_rNJJc4": {
           "type": "criterion",
           "settings": {
-            "heading": "Natural Essential Oils",
+            "heading": "Built-in Foldable Stand",
             "criterion_detail_product": "Yes",
             "criterion_detail_externals": "No\nNo\nNo\nNo"
           }
@@ -502,7 +502,7 @@
         "criterion_4NELMY": {
           "type": "criterion",
           "settings": {
-            "heading": "Waterproof Design",
+            "heading": "Comfortable Gaming While Charging",
             "criterion_detail_product": "Yes",
             "criterion_detail_externals": "No\nNo\nNo\nNo"
           }
@@ -510,7 +510,7 @@
         "criterion_yUcU3i": {
           "type": "criterion",
           "settings": {
-            "heading": "Ideal for Outdoor Activities",
+            "heading": "Adjustable Viewing Angle",
             "criterion_detail_product": "Yes",
             "criterion_detail_externals": "No\nNo\nNo\nNo"
           }
@@ -529,7 +529,7 @@
         "heading_tag": "h2",
         "heading_alignment": "center",
         "description": "",
-        "product": "mosquito-repellent-hand-strap",
+        "product": "2-in-1-charging-cable",
         "alternative_text": "",
         "external_item_labels": "Others",
         "background_color_light": "#ffffff",
@@ -562,8 +562,8 @@
             "icon": "faq",
             "another_icon": "",
             "custom_icon": "",
-            "heading": "Is the bracelet safe for children?",
-            "row_content": "<p><strong>Yes</strong>, it is designed to be comfortable and suitable for both children and adults.<br/><br/></p>"
+            "heading": "Is this cable compatible with my phone?",
+            "row_content": "<p><strong>Yes</strong>, it is compatible with devices that use the selected connector type C.<br/><br/><br/><br/></p>"
           }
         },
         "frequently_asked_question_qKUeCx": {
@@ -572,8 +572,8 @@
             "icon": "faq",
             "another_icon": "",
             "custom_icon": "",
-            "heading": "Is the bracelet waterproof?",
-            "row_content": "<p><strong>Yes</strong>, the strap is waterproof and perfect for outdoor activities.<br/><br/></p>"
+            "heading": "Is the stand sturdy enough to hold my phone?",
+            "row_content": "<p><strong>Yes</strong>. The reinforced alloy stand provides stable support for most smartphones during everyday use.<br/><br/></p>"
           }
         },
         "frequently_asked_question_p9THCx": {
@@ -582,8 +582,8 @@
             "icon": "faq",
             "another_icon": "",
             "custom_icon": "",
-            "heading": "How does the bracelet work?",
-            "row_content": "<p><br/>It uses natural essential oils that help repel mosquitoes while providing a pleasant scent.<br/><br/></p>"
+            "heading": "Is the cable durable?",
+            "row_content": "<p>Yes. It features a premium braided cable and alloy construction for enhanced durability and long-lasting performance.<br/><br/><br/></p>"
           }
         },
         "frequently_asked_question_KdBJC7": {
@@ -592,8 +592,8 @@
             "icon": "faq",
             "another_icon": "",
             "custom_icon": "",
-            "heading": "Where can I use the mosquito repellent bracelet?",
-            "row_content": "<p><br/>It is ideal for camping, hiking, traveling, parks, gardens, sports, and everyday outdoor activities.<br/><br/></p>"
+            "heading": "What makes this cable different from a regular charging cable?",
+            "row_content": "<p><br/>Unlike standard cables, it combines <strong>fast charging, a built-in adjustable stand, hands-free viewing, and premium durability</strong> in one smart design. <br/><br/><br/><br/></p>"
           }
         }
       },
