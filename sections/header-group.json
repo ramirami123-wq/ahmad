@@ -100,19 +100,7 @@
     },
     "blocks_GWpNd3": {
       "type": "_blocks",
-      "blocks": {
-        "ai_gen_block_95f02b0_f7RQTV": {
-          "type": "ai_gen_block_95f02b0",
-          "settings": {
-            "desktop_height": 50,
-            "mobile_height": 30
-          },
-          "blocks": {}
-        }
-      },
-      "block_order": [
-        "ai_gen_block_95f02b0_f7RQTV"
-      ],
+      "disabled": true,
       "name": "Spacer",
       "settings": {}
     },
@@ -132,6 +120,7 @@
         "mobile-navigation-2",
         "mobile-navigation-3"
       ],
+      "disabled": true,
       "settings": {
         "menu": "main-menu",
         "show_language_selector": true,
@@ -153,19 +142,6 @@
     },
     "178018608333a1508f": {
       "type": "_blocks",
-      "blocks": {
-        "ai_gen_block_95f02b0_G3Uapk": {
-          "type": "ai_gen_block_95f02b0",
-          "settings": {
-            "desktop_height": 50,
-            "mobile_height": 30
-          },
-          "blocks": {}
-        }
-      },
-      "block_order": [
-        "ai_gen_block_95f02b0_G3Uapk"
-      ],
       "settings": {}
     }
   },

@@ -15,7 +15,7 @@
         "971b1015-ef28-4d4a-a43c-646bfd6da4a0": {
           "type": "slide",
           "settings": {
-            "image": "shopify://shop_images/ChatGPT_Image_Jun_20_2026_02_21_35_PM.png",
+            "image": "shopify://shop_images/ChatGPT_Image_Jun_29_2026_03_50_58_PM.png",
             "image_link": "",
             "open_new_window_image": false,
             "overlay_opacity": 0,
@@ -234,8 +234,8 @@
         "speed": 20,
         "direction": "right",
         "pause_hover": true,
-        "bg_light": "#c9a35a",
-        "color_text_light": "#151515",
+        "bg_light": "#151515",
+        "color_text_light": "#FCFAF6",
         "color_text_light_2": "rgba(0,0,0,0)",
         "color_heading_highlight_light": "#151515",
         "bg_dark": "#c9a35a",

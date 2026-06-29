@@ -158,6 +158,7 @@
         "text_label_a3ixUf",
         "text_label_eTDYxb"
       ],
+      "disabled": true,
       "settings": {
         "enable": true
       }
@@ -241,6 +242,7 @@
         "quantity-selector",
         "buy-buttons"
       ],
+      "disabled": true,
       "settings": {
         "product": "",
         "show_product_name": true,
