@@ -1,6 +1,407 @@
+{% doc %}
+  @prompt
+    Create a comprehensive custom CSS block for a luxury Shopify theme for the brand Nestora. The brand aesthetic is inspired by Apple, Aesop, and Rituals — minimal, elegant, warm, and premium.
+    
+    Apply the following CSS rules:
+    
+    Color variables:
+    --color-black: #151515
+    --color-ivory: #FCFAF6
+    --color-sand: #F2ECE3
+    --color-stone: #DDD5C9
+    --color-gold: #C9A35A
+    --color-text: #1F1F1F
+    --color-text-secondary: #6E6E6E
+    --color-text-light: #9E9E9E
+    --color-border: #E9E4DC
+    
+    Button hover states:
+    - Primary buttons (.btn, button[type="submit"], .button--primary): on hover → background #C9A35A, color #151515, border-color #C9A35A, smooth transition 0.3s ease
+    - Secondary buttons (.button--secondary, .btn--secondary): on hover → background #F2ECE3, color #151515
+    
+    Links: color #1F1F1F, on hover → color #C9A35A, transition 0.2s ease
+    
+    Judge.me review stars (.jdgm-star, .jdgm-prev-badge__stars, .jdgm-widget .jdgm-star): color #C9A35A, fill #C9A35A
+    
+    Form inputs (input, textarea, select):
+    - border: 1px solid #E9E4DC
+    - background: #FFFFFF
+    - color: #1F1F1F
+    - border-radius: 2px
+    - on focus: border-color #151515, outline: none, box-shadow: 0 0 0 1px #151515
+    
+    Sale/badge labels (.badge--sale, .product-badge, .badge):
+    - background: #151515
+    - color: #FFFFFF
+    - font-size: small, letter-spacing: 0.05em, text-transform: uppercase
+    
+    Shadows: soften all box-shadows to use rgba(21,21,21,0.06) instead of heavy blacks
+    
+    Card hover effects (.card, .product-card, .collection-card):
+    - on hover: box-shadow: 0 4px 24px rgba(21,21,21,0.08), transform: translateY(-2px), transition: 0.3s ease
+    
+    Announcement bar text and links: color #FCFAF6, accent links color #C9A35A
+    
+    Footer links: color #9E9E9E, on hover → color #C9A35A
+    
+    Scrollbar styling: thin, track #F2ECE3, thumb #DDD5C9
+    
+    Increase whitespace: add padding to sections (section padding-top/bottom increase by ~20%)
+    
+    Cart drawer (.cart-drawer, #cart-drawer): background #FCFAF6, border-left 1px solid #E9E4DC
+    
+    Checkout button in cart: background #151515, color #FFFFFF, on hover background #C9A35A, color #151515
+    
+    Price styling (.price, .product__price): color #1F1F1F, font-weight 500
+    Compare-at price (.price--compare, .price__compare): color #9E9E9E, text-decoration line-through
+    
+    Variant selector buttons (selected state): border-color #151515, background #151515, color #FFFFFF
+    
+    Navigation links: color #1F1F1F, letter-spacing 0.02em, on hover color #C9A35A
+    
+    Dividers and borders (hr, .divider): border-color #E9E4DC
+    
+    Icon colors (svg icons in header, cart, search): fill/stroke #1F1F1F
+    
+    Make all transitions smooth at 0.25s–0.3s ease. Use elegant, minimal styling throughout.
+{% enddoc %}
+{% assign ai_gen_id = block.id | replace: '_', '' | downcase %}
+
+{% style %}
+  .ai-custom-css-{{ ai_gen_id }} {
+    display: block;
+    width: 100%;
+  }
+
+  :root {
+    --color-black: #151515;
+    --color-ivory: #FCFAF6;
+    --color-sand: #F2ECE3;
+    --color-stone: #DDD5C9;
+    --color-gold: #C9A35A;
+    --color-text: #1F1F1F;
+    --color-text-secondary: #6E6E6E;
+    --color-text-light: #9E9E9E;
+    --color-border: #E9E4DC;
+  }
+
+  .btn,
+  button[type="submit"],
+  .button--primary,
+  .shopify-payment-button__button,
+  .product-form__submit,
+  input[type="submit"] {
+    transition: all 0.3s ease;
+  }
+
+  .btn:hover,
+  button[type="submit"]:hover,
+  .button--primary:hover,
+  .shopify-payment-button__button:hover,
+  .product-form__submit:hover,
+  input[type="submit"]:hover {
+    background: #C9A35A !important;
+    color: #151515 !important;
+    border-color: #C9A35A !important;
+  }
+
+  .button--secondary:hover,
+  .btn--secondary:hover {
+    background: #F2ECE3 !important;
+    color: #151515 !important;
+  }
+
+  a {
+    color: #1F1F1F;
+    transition: color 0.2s ease;
+  }
+
+  a:hover {
+    color: #C9A35A;
+  }
+
+  .jdgm-star,
+  .jdgm-prev-badge__stars,
+  .jdgm-widget .jdgm-star,
+  .jdgm-star.jdgm--on:before,
+  .jdgm-star.jdgm--on:after {
+    color: #C9A35A !important;
+    fill: #C9A35A !important;
+  }
+
+  input,
+  textarea,
+  select,
+  .field__input,
+  input[type="text"],
+  input[type="email"],
+  input[type="tel"],
+  input[type="password"],
+  input[type="search"] {
+    border: 1px solid #E9E4DC;
+    background: #FFFFFF;
+    color: #1F1F1F;
+    border-radius: 2px;
+  }
+
+  input:focus,
+  textarea:focus,
+  select:focus,
+  .field__input:focus,
+  input[type="text"]:focus,
+  input[type="email"]:focus,
+  input[type="tel"]:focus,
+  input[type="password"]:focus,
+  input[type="search"]:focus {
+    border-color: #151515 !important;
+    outline: none !important;
+    box-shadow: 0 0 0 1px #151515 !important;
+  }
+
+  .badge--sale,
+  .product-badge,
+  .badge,
+  .card__badge,
+  .price__badge-sale {
+    background: #151515 !important;
+    color: #FFFFFF !important;
+    font-size: 0.75rem;
+    letter-spacing: 0.05em;
+    text-transform: uppercase;
+  }
+
+  .card,
+  .product-card,
+  .collection-card,
+  .card-wrapper,
+  .product-card-wrapper {
+    transition: all 0.3s ease;
+  }
+
+  .card:hover,
+  .product-card:hover,
+  .collection-card:hover,
+  .card-wrapper:hover,
+  .product-card-wrapper:hover {
+    box-shadow: 0 4px 24px rgba(21, 21, 21, 0.08) !important;
+    transform: translateY(-2px);
+  }
+
+  .announcement-bar,
+  .announcement-bar__message,
+  .announcement-bar a {
+    color: #FCFAF6;
+  }
+
+  .announcement-bar a:hover {
+    color: #C9A35A;
+  }
+
+  .footer a,
+  .footer__link,
+  footer a {
+    color: #9E9E9E;
+    transition: color 0.25s ease;
+  }
+
+  .footer a:hover,
+  .footer__link:hover,
+  footer a:hover {
+    color: #C9A35A;
+  }
+
+  ::-webkit-scrollbar {
+    width: 8px;
+    height: 8px;
+  }
+
+  ::-webkit-scrollbar-track {
+    background: #F2ECE3;
+  }
+
+  ::-webkit-scrollbar-thumb {
+    background: #DDD5C9;
+    border-radius: 4px;
+  }
+
+  ::-webkit-scrollbar-thumb:hover {
+    background: #C9A35A;
+  }
+
+  * {
+    scrollbar-width: thin;
+    scrollbar-color: #DDD5C9 #F2ECE3;
+  }
+
+  .section,
+  .shopify-section,
+  section {
+    padding-top: calc(var(--section-padding, 50px) * 1.2);
+    padding-bottom: calc(var(--section-padding, 50px) * 1.2);
+  }
+
+  .cart-drawer,
+  #cart-drawer,
+  .drawer,
+  cart-drawer {
+    background: #FCFAF6 !important;
+    border-left: 1px solid #E9E4DC;
+  }
+
+  .cart__ctas button,
+  .cart-drawer__footer button,
+  #checkout,
+  .cart__checkout-button {
+    background: #151515 !important;
+    color: #FFFFFF !important;
+    transition: all 0.3s ease;
+  }
+
+  .cart__ctas button:hover,
+  .cart-drawer__footer button:hover,
+  #checkout:hover,
+  .cart__checkout-button:hover {
+    background: #C9A35A !important;
+    color: #151515 !important;
+  }
+
+  .price,
+  .product__price,
+  .price__regular,
+  .price-item {
+    color: #1F1F1F;
+    font-weight: 500;
+  }
+
+  .price--compare,
+  .price__compare,
+  .price__sale .price-item--regular {
+    color: #9E9E9E;
+    text-decoration: line-through;
+  }
+
+  .variant-input input[type="radio"]:checked + label,
+  .product-form__input input[type="radio"]:checked + label,
+  fieldset input[type="radio"]:checked + label {
+    border-color: #151515 !important;
+    background: #151515 !important;
+    color: #FFFFFF !important;
+  }
+
+  .header__menu-item,
+  .header__inline-menu a,
+  .menu-drawer__menu-item,
+  nav a,
+  .header a {
+    color: #1F1F1F;
+    letter-spacing: 0.02em;
+    transition: color 0.25s ease;
+  }
+
+  .header__menu-item:hover,
+  .header__inline-menu a:hover,
+  .menu-drawer__menu-item:hover,
+  nav a:hover,
+  .header a:hover {
+    color: #C9A35A;
+  }
+
+  hr,
+  .divider,
+  .separator {
+    border-color: #E9E4DC;
+  }
+
+  svg,
+  .icon,
+  .header svg,
+  .cart-count-bubble svg {
+    fill: #1F1F1F;
+    stroke: #1F1F1F;
+  }
+
+  .shadow,
+  .card__inner,
+  .media--hover-effect,
+  img:hover {
+    box-shadow: 0 4px 24px rgba(21, 21, 21, 0.06) !important;
+  }
+
+  * {
+    transition-duration: 0.3s;
+    transition-timing-function: ease;
+  }
+
+  a,
+  button,
+  .btn,
+  input {
+    transition-duration: 0.25s;
+  }
+{% endstyle %}
+
+<div class="ai-custom-css-{{ ai_gen_id }}" {{ block.shopify_attributes }}>
+  {% if block.settings.show_message %}
+    <div style="
+      padding: 20px;
+      text-align: center;
+      background: {{ block.settings.message_bg_color }};
+      color: {{ block.settings.message_text_color }};
+      border-radius: 4px;
+      font-size: 14px;
+      letter-spacing: 0.02em;
+    ">
+      {{ block.settings.message }}
+    </div>
+  {% endif %}
+</div>
+
 {% schema %}
- {
-   "name": "AI_Block",
-   "tag": "shopify-ai-generated-block"
- }
+{
+  "name": "Nestora luxury CSS",
+  "tag": null,
+  "settings": [
+    {
+      "type": "header",
+      "content": "Custom CSS applied"
+    },
+    {
+      "type": "paragraph",
+      "content": "This block applies luxury brand styling inspired by Apple, Aesop, and Rituals. All CSS rules are automatically applied to your theme."
+    },
+    {
+      "type": "header",
+      "content": "Optional message"
+    },
+    {
+      "type": "checkbox",
+      "id": "show_message",
+      "label": "Show message",
+      "default": false
+    },
+    {
+      "type": "richtext",
+      "id": "message",
+      "label": "Message",
+      "default": "<p>Custom styling active</p>"
+    },
+    {
+      "type": "color",
+      "id": "message_bg_color",
+      "label": "Message background",
+      "default": "#F2ECE3"
+    },
+    {
+      "type": "color",
+      "id": "message_text_color",
+      "label": "Message text color",
+      "default": "#1F1F1F"
+    }
+  ],
+  "presets": [
+    {
+      "name": "Nestora luxury CSS"
+    }
+  ]
+}
 {% endschema %}
