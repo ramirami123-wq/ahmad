@@ -142,6 +142,7 @@
     },
     "178018608333a1508f": {
       "type": "_blocks",
+      "disabled": true,
       "settings": {}
     }
   },
