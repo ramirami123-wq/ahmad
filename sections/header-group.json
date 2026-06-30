@@ -94,15 +94,9 @@
         "padding_top": 0,
         "padding_bottom": 0,
         "show_section_divider_mobile": false,
-        "padding_top_mobile": 16,
-        "padding_bottom_mobile": 16
+        "padding_top_mobile": 0,
+        "padding_bottom_mobile": 0
       }
-    },
-    "blocks_GWpNd3": {
-      "type": "_blocks",
-      "disabled": true,
-      "name": "Spacer",
-      "settings": {}
     },
     "mobile-navigation": {
       "type": "mobile-navigation",
@@ -149,7 +143,6 @@
   "order": [
     "announcement-bar",
     "header",
-    "blocks_GWpNd3",
     "mobile-navigation",
     "178018608333a1508f"
   ]
