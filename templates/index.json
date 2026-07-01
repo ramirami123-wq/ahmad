@@ -12,10 +12,51 @@
     "fe5dccd3-17fd-4fd3-ada9-a0e11305981c": {
       "type": "slideshow",
       "blocks": {
+        "slide_nWHEQB": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/ChatGPT_Image_Jul_1_2026_12_52_35_PM.png",
+            "image_link": "",
+            "open_new_window_image": false,
+            "overlay_opacity": 0,
+            "enable_bakground": false,
+            "subheading": "",
+            "heading": "Wear Style.                                              Repel Mosquitoes Naturally",
+            "highlight_type": "underline",
+            "heading_size": 170,
+            "heading_tag": "h2",
+            "text": "<h3></h3><p>Elegant design meets plant-powered protection.<br/><br/>Perfect for travel, outdoor activities, and everyday wear.</p>",
+            "button_label_1": "Shop collection",
+            "button_link_1": "shopify://collections/all",
+            "open_new_window_button": false,
+            "show_button_style_1": "primary",
+            "button_label_2": "How it works",
+            "button_link_2": "shopify://products/mosquito-repellent-hand-strap",
+            "open_new_window_button_2": false,
+            "show_button_style_2": "primary",
+            "content_alignment": "middle-center",
+            "custom_horizontal": 50,
+            "custom_vertical": 50,
+            "alignment": "center",
+            "text_product": "Check out our products:",
+            "list_products": [],
+            "show_rating": false,
+            "content_background_color": "rgba(0,0,0,0)",
+            "color_text": "rgba(0,0,0,0)",
+            "color_button": "rgba(0,0,0,0)",
+            "color_text_button": "rgba(0,0,0,0)",
+            "color_button_hover": "rgba(0,0,0,0)",
+            "color_text_button_hover": "rgba(0,0,0,0)",
+            "color_button_secondary": "rgba(0,0,0,0)",
+            "secondary_button_text": "rgba(0,0,0,0)",
+            "colors_text_link": "rgba(0,0,0,0)",
+            "color_heading_highlight_light": "rgba(0,0,0,0)"
+          }
+        },
         "971b1015-ef28-4d4a-a43c-646bfd6da4a0": {
           "type": "slide",
           "settings": {
-            "image": "shopify://shop_images/ChatGPT_Image_Jul_1_2026_09_13_55_AM_6f17ab5d-df88-44e7-b199-0e74cd970a86.png",
+            "image": "shopify://shop_images/ChatGPT_Image_Jul_1_2026_12_47_14_PM.png",
             "image_mobile": "shopify://shop_images/ChatGPT_Image_Jul_1_2026_09_25_12_AM.png",
             "image_link": "",
             "open_new_window_image": false,
@@ -56,6 +97,7 @@
         }
       },
       "block_order": [
+        "slide_nWHEQB",
         "971b1015-ef28-4d4a-a43c-646bfd6da4a0"
       ],
       "settings": {
