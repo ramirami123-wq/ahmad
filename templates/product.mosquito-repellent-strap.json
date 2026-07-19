@@ -93,6 +93,12 @@
             "secondary_button_text_dark": "#151515"
           }
         },
+        "html_kd69QB": {
+          "type": "html",
+          "settings": {
+            "custom_html": "<div style=\"margin-top: 24px; padding: 20px 0; text-align: left; font-size: 16px; line-height: 1.8; letter-spacing: 0.3px;\"><p style=\"margin: 0; font-weight: 600; color: #1f1f1f;\"><span style=\"color: #3fae7c;\">✔</span> Secure Checkout</p><p style=\"margin: 0; font-weight: 600; color: #1f1f1f;\"><span style=\"color: #3fae7c;\">✔</span> Cash on Delivery</p><p style=\"margin: 0; font-weight: 600; color: #1f1f1f;\"><span style=\"color: #3fae7c;\">✔</span> Fast Delivery Across Lebanon</p></div>"
+          }
+        },
         "feature_icon_99BxnX": {
           "type": "feature_icon",
           "settings": {
@@ -188,6 +194,7 @@
         "quantity_selector",
         "gift_wrapping_EK3NQn",
         "buy_buttons",
+        "html_kd69QB",
         "feature_icon_99BxnX",
         "description",
         "sticky-atc"
