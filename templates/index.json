@@ -510,6 +510,56 @@
         "ai_gen_block_efeb845_4X7zcy"
       ],
       "settings": {}
+    },
+    "17844432027759ccb8": {
+      "type": "_blocks",
+      "blocks": {
+        "ai_gen_block_40f18e3_HXayPX": {
+          "type": "ai_gen_block_40f18e3",
+          "disabled": true,
+          "settings": {
+            "item_1_date": "2020",
+            "item_1_title": "Company founded",
+            "item_1_description": "Our journey began with a vision to create exceptional products.",
+            "item_2_date": "2021",
+            "item_2_title": "First product launch",
+            "item_2_description": "We introduced our flagship product to the market with great success.",
+            "item_3_date": "2022",
+            "item_3_title": "Expansion milestone",
+            "item_3_description": "Reached 10,000 customers and expanded to new markets.",
+            "item_4_date": "2023",
+            "item_4_title": "Award recognition",
+            "item_4_description": "Received industry awards for innovation and customer satisfaction.",
+            "item_5_date": "2024",
+            "item_5_title": "Global presence",
+            "item_5_description": "Now serving customers in over 50 countries worldwide.",
+            "desktop_width_percent": 100,
+            "section_padding": 50,
+            "item_spacing": 60,
+            "content_padding": 25,
+            "content_border_radius": 8,
+            "line_width": 3,
+            "line_color": "#F2F2F2",
+            "active_line_color": "#FB8500",
+            "marker_size": 16,
+            "marker_border_width": 3,
+            "marker_color": "#FFFFFF",
+            "active_marker_color": "#FB8500",
+            "content_bg_color": "#FFFFFF",
+            "date_font_size": 14,
+            "date_color": "#FB8500",
+            "title_font_size": 20,
+            "title_color": "#000000",
+            "description_font_size": 14,
+            "description_color": "#525151"
+          },
+          "blocks": {}
+        }
+      },
+      "block_order": [
+        "ai_gen_block_40f18e3_HXayPX"
+      ],
+      "settings": {}
     }
   },
   "order": [
@@ -520,6 +570,7 @@
     "rich_text_iRYjAW",
     "faq_McEVrE",
     "multicolumn_bbt7xk",
-    "1782737119aa9f7d9b"
+    "1782737119aa9f7d9b",
+    "17844432027759ccb8"
   ]
 }
