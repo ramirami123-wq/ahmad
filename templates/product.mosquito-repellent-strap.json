@@ -12,6 +12,12 @@
     "main": {
       "type": "main-product",
       "blocks": {
+        "html_DK78JD": {
+          "type": "html",
+          "settings": {
+            "custom_html": "<div class=\"social-proof-badge\">\n  <span class=\"stars\">⭐⭐⭐⭐⭐</span>\n  <span class=\"text\">150+ Happy Customers</span>\n</div>"
+          }
+        },
         "html_k6nFcL": {
           "type": "html",
           "settings": {
@@ -86,12 +92,6 @@
             "button_text_hover_dark": "#151515",
             "secondary_button_dark": "#ffffff",
             "secondary_button_text_dark": "#151515"
-          }
-        },
-        "html_DK78JD": {
-          "type": "html",
-          "settings": {
-            "custom_html": "<div class=\"social-proof-badge\">\n  <span class=\"stars\">⭐⭐⭐⭐⭐</span>\n  <span class=\"text\">500+ Happy Customers</span>\n</div>"
           }
         },
         "feature_icon_99BxnX": {
@@ -180,6 +180,7 @@
         }
       },
       "block_order": [
+        "html_DK78JD",
         "html_k6nFcL",
         "product_name_xkPbAa",
         "price",
@@ -188,7 +189,6 @@
         "quantity_selector",
         "gift_wrapping_EK3NQn",
         "buy_buttons",
-        "html_DK78JD",
         "feature_icon_99BxnX",
         "description",
         "sticky-atc"
