@@ -41,7 +41,7 @@
         "html_bm7Qqj": {
           "type": "html",
           "settings": {
-            "custom_html": "<div class=\"product-highlights\" style=\"margin: 20px 0; padding: 16px 0; border-top: 1px solid #e9e4dc; border-bottom: 1px solid #e9e4dc;\">\n  <div style=\"font-size: 15px; line-height: 1.8; color: #6e6e6e; font-weight: 700; letter-spacing: 0.3px;\">\n    <div style=\"margin-bottom: 10px;\">✅ What's Included</div>\n    <div style=\"margin-bottom: 8px;\">🌿 1 Free Essential Oil Refill</div>\n    <div style=\"margin-bottom: 8px;\">🎁 Free Gift Included</div>\n    <div style=\"margin-bottom: 8px;\">🚚 Delivery All Over Lebanon</div>\n    <div>💵 Cash on Delivery</div>\n  </div>\n</div>"
+            "custom_html": "<div class=\"product-highlights\" style=\"margin: 20px 0; padding: 16px 0; border-top: 1px solid #e9e4dc; border-bottom: 1px solid #e9e4dc;\">\n  <div style=\"font-size: 15px; line-height: 1.8; color: #6e6e6e; font-weight: 700; letter-spacing: 0.3px;\">\n    <div style=\"margin-bottom: 10px;\">✅ What's Included</div>\n    <div style=\"margin-bottom: 8px;\">🌿 1 Free Essential Oil Refill</div>\n\n    <div style=\"margin-bottom: 8px;\">🚚 Delivery All Over Lebanon</div>\n    <div>💵 Cash on Delivery</div>\n  </div>\n</div>"
           }
         },
         "html_riyhhe": {
