@@ -1,0 +1,763 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main": {
+      "type": "main-product",
+      "blocks": {
+        "html_DK78JD": {
+          "type": "html",
+          "settings": {
+            "custom_html": "<div class=\"social-proof-badge\">\n  <span class=\"stars\">⭐⭐⭐⭐⭐</span>\n  <span class=\"text\">150+ Happy Customers</span>\n</div>"
+          }
+        },
+        "html_k6nFcL": {
+          "type": "html",
+          "settings": {
+            "custom_html": "<style>\n  .nestora-luxury-block {\n    background: linear-gradient(135deg, #FCFAF6 0%, #F2ECE3 100%);\n    border: 1px solid #E9E4DC;\n    border-radius: 8px;\n    padding: 40px;\n    margin: 20px 0;\n    text-align: center;\n  }\n  \n  .nestora-luxury-block h3 {\n    color: #1F1F1F;\n    font-size: 24px;\n    font-weight: 600;\n    margin-bottom: 16px;\n    letter-spacing: 0.5px;\n  }\n  \n  .nestora-luxury-block p {\n    color: #6E6E6E;\n    font-size: 16px;\n    line-height: 1.6;\n    margin-bottom: 24px;\n  }\n  \n  .nestora-luxury-block .highlight {\n    color: #C9A35A;\n    font-weight: 600;\n  }\n  \n  .nestora-luxury-block .luxury-button {\n    display: inline-block;\n    background-color: #151515;\n    color: #FFFFFF;\n    padding: 14px 32px;\n    border: 1px solid #151515;\n    border-radius: 4px;\n    text-decoration: none;\n    font-weight: 600;\n    font-size: 14px;\n    letter-spacing: 0.5px;\n    transition: all 0.3s ease;\n    cursor: pointer;\n  }\n  \n  .nestora-luxury-block .luxury-button:hover {\n    background-color: #FCFAF6;\n    color: #151515;\n    border-color: #151515;\n  }\n  \n  .nestora-luxury-block .luxury-button-secondary {\n    display: inline-block;\n    background-color: #FFFFFF;\n    color: #151515;\n    padding: 14px 32px;\n    border: 1px solid #E9E4DC;\n    border-radius: 4px;\n    text-decoration: none;\n    font-weight: 600;\n    font-size: 14px;\n    letter-spacing: 0.5px;\n    transition: all 0.3s ease;\n    cursor: pointer;\n    margin-left: 12px;\n  }\n  \n  .nestora-luxury-block .luxury-button-secondary:hover {\n    background-color: #F2ECE3;\n    border-color: #151515;\n  }\n  \n  .nestora-luxury-block .feature-list {\n    display: flex;\n    justify-content: center;\n    gap: 24px;\n    margin-top: 32px;\n    flex-wrap: wrap;\n  }\n  \n  .nestora-luxury-block .feature-item {\n    flex: 1;\n    min-width: 150px;\n    padding: 16px;\n    border-left: 2px solid #C9A35A;\n  }\n  \n  .nestora-luxury-block .feature-item strong {\n    color: #1F1F1F;\n    display: block;\n    margin-bottom: 8px;\n  }\n  \n  .nestora-luxury-block .feature-item span {\n    color: #6E6E6E;\n    font-size: 14px;\n  }\n  \n  @media (max-width: 768px) {\n    .nestora-luxury-block {\n      padding: 24px;\n    }\n    \n    .nestora-luxury-block h3 {\n      font-size: 20px;\n    }\n    \n    .nestora-luxury-block .feature-list {\n      gap: 16px;\n    }\n    \n    .nestora-luxury-block .luxury-button-secondary {\n      margin-left: 0;\n      margin-top: 12px;\n      display: block;\n    }\n  }\n  \n  /* Dark mode support */\n  @media (prefers-color-scheme: dark) {\n    .nestora-luxury-block {\n      background: linear-gradient(135deg, #2A2A2A 0%, #1F1F1F 100%);\n      border-color: #3A3A3A;\n    }\n    \n    .nestora-luxury-block h3 {\n      color: #FCFAF6;\n    }\n    \n    .nestora-luxury-block p {\n      color: #9E9E9E;\n    }\n    \n    .nestora-luxury-block .luxury-button {\n      background-color: #C9A35A;\n      color: #151515;\n      border-color: #C9A35A;\n    }\n    \n    .nestora-luxury-block .luxury-button:hover {\n      background-color: #151515;\n      color: #C9A35A;\n      border-color: #C9A35A;\n    }\n    \n    .nestora-luxury-block .luxury-button-secondary {\n      background-color: #FFFFFF;\n      color: #151515;\n      border-color: #FFFFFF;\n    }\n    \n    .nestora-luxury-block .luxury-button-secondary:hover {\n      background-color: #F2ECE3;\n      border-color: #FFFFFF;\n    }\n    \n    .nestora-luxury-block .feature-item {\n      border-left-color: #C9A35A;\n    }\n    \n    .nestora-luxury-block .feature-item strong {\n      color: #FCFAF6;\n    }\n    \n    .nestora-luxury-block .feature-item span {\n      color: #9E9E9E;\n    }\n  }\n</style>\n\n<div class=\"nestora-luxury-block\">\n  <h3>Premium Protection & Care</h3>\n  <p>Experience the <span class=\"highlight\">luxury of natural mosquito repellent</span> with our scientifically-formulated strap. Elegant, effective, and effortlessly wearable.</p>\n  \n  <div class=\"feature-list\">\n    <div class=\"feature-item\">\n      <strong>Long-lasting</strong>\n      <span>Up to 8 hours</span>\n    </div>\n    <div class=\"feature-item\">\n      <strong>Natural Formula</strong>\n      <span>No harsh chemicals</span>\n    </div>\n    <div class=\"feature-item\">\n      <strong>Elegant Design</strong>\n      <span>Wearable anywhere</span>\n    </div>\n  </div>\n  \n  <div style=\"margin-top: 32px;\">\n    <button class=\"luxury-button\">Learn More</button>\n    <button class=\"luxury-button-secondary\">View Reviews</button>\n  </div>\n</div>"
+          }
+        },
+        "product_name_xkPbAa": {
+          "type": "product_name",
+          "settings": {
+            "title_size": 100,
+            "heading_tag": "h1"
+          }
+        },
+        "price": {
+          "type": "price",
+          "settings": {
+            "show_tax_and_shipping": false,
+            "text_size_price": 70
+          }
+        },
+        "html_bm7Qqj": {
+          "type": "html",
+          "settings": {
+            "custom_html": "<div class=\"product-highlights\" style=\"margin: 20px 0; padding: 16px 0; border-top: 1px solid #e9e4dc; border-bottom: 1px solid #e9e4dc;\">\n  <div style=\"font-size: 15px; line-height: 1.8; color: #6e6e6e; font-weight: 700; letter-spacing: 0.3px;\">\n    <div style=\"margin-bottom: 10px;\">✅ What's Included</div>\n    <div style=\"margin-bottom: 8px;\">🌿 1 Free Essential Oil Refill</div>\n\n    <div style=\"margin-bottom: 8px;\">🚚 Delivery All Over Lebanon</div>\n    <div>💵 Cash on Delivery</div>\n  </div>\n</div>"
+          }
+        },
+        "html_riyhhe": {
+          "type": "html",
+          "settings": {
+            "custom_html": "<style>\n  .nestora-product-highlight {\n    background: linear-gradient(135deg, #FCFAF6 0%, #F2ECE3 100%);\n    border: 1px solid #E9E4DC;\n    border-radius: 8px;\n    padding: 32px;\n    margin: 24px 0;\n    text-align: center;\n  }\n  \n  .nestora-product-highlight h4 {\n    color: #1F1F1F;\n    font-size: 20px;\n    font-weight: 600;\n    margin-bottom: 12px;\n    letter-spacing: 0.5px;\n  }\n  \n  .nestora-product-highlight p {\n    color: #6E6E6E;\n    font-size: 15px;\n    line-height: 1.6;\n    margin-bottom: 16px;\n  }\n  \n  .nestora-product-highlight .accent-text {\n    color: #C9A35A;\n    font-weight: 600;\n  }\n  \n  .nestora-product-highlight .luxury-badge {\n    display: inline-block;\n    background-color: #151515;\n    color: #FCFAF6;\n    padding: 8px 16px;\n    border-radius: 4px;\n    font-size: 12px;\n    font-weight: 600;\n    letter-spacing: 0.5px;\n    margin: 8px 4px;\n  }\n  \n  .nestora-product-highlight .badge-gold {\n    background-color: #C9A35A;\n    color: #151515;\n  }\n  \n  .nestora-product-highlight .feature-grid {\n    display: grid;\n    grid-template-columns: repeat(auto-fit, minmax(120px, 1fr));\n    gap: 16px;\n    margin-top: 20px;\n  }\n  \n  .nestora-product-highlight .feature-grid-item {\n    padding: 12px;\n    border-left: 3px solid #C9A35A;\n  }\n  \n  .nestora-product-highlight .feature-grid-item strong {\n    color: #1F1F1F;\n    display: block;\n    font-size: 14px;\n    margin-bottom: 4px;\n  }\n  \n  .nestora-product-highlight .feature-grid-item span {\n    color: #6E6E6E;\n    font-size: 12px;\n  }\n  \n  .nestora-product-highlight .divider {\n    height: 1px;\n    background-color: #E9E4DC;\n    margin: 20px 0;\n  }\n  \n  .nestora-product-highlight .dark-section {\n    background-color: #151515;\n    color: #FCFAF6;\n    padding: 20px;\n    border-radius: 6px;\n    margin-top: 20px;\n  }\n  \n  .nestora-product-highlight .dark-section h5 {\n    color: #FCFAF6;\n    font-size: 16px;\n    font-weight: 600;\n    margin-bottom: 8px;\n  }\n  \n  .nestora-product-highlight .dark-section p {\n    color: #9E9E9E;\n    margin-bottom: 0;\n  }\n  \n  .nestora-product-highlight .dark-section .accent-text {\n    color: #C9A35A;\n  }\n  \n  @media (max-width: 768px) {\n    .nestora-product-highlight {\n      padding: 20px;\n    }\n    \n    .nestora-product-highlight h4 {\n      font-size: 18px;\n    }\n    \n    .nestora-product-highlight .feature-grid {\n      grid-template-columns: repeat(2, 1fr);\n      gap: 12px;\n    }\n  }\n  \n  @media (prefers-color-scheme: dark) {\n    .nestora-product-highlight {\n      background: linear-gradient(135deg, #2A2A2A 0%, #1F1F1F 100%);\n      border-color: #3A3A3A;\n    }\n    \n    .nestora-product-highlight h4 {\n      color: #FCFAF6;\n    }\n    \n    .nestora-product-highlight p {\n      color: #9E9E9E;\n    }\n    \n    .nestora-product-highlight .luxury-badge {\n      background-color: #C9A35A;\n      color: #151515;\n    }\n    \n    .nestora-product-highlight .badge-gold {\n      background-color: #151515;\n      color: #FCFAF6;\n    }\n    \n    .nestora-product-highlight .feature-grid-item {\n      border-left-color: #C9A35A;\n    }\n    \n    .nestora-product-highlight .feature-grid-item strong {\n      color: #FCFAF6;\n    }\n    \n    .nestora-product-highlight .feature-grid-item span {\n      color: #9E9E9E;\n    }\n    \n    .nestora-product-highlight .divider {\n      background-color: #3A3A3A;\n    }\n    \n    .nestora-product-highlight .dark-section {\n      background-color: #FCFAF6;\n      color: #1F1F1F;\n    }\n    \n    .nestora-product-highlight .dark-section h5 {\n      color: #1F1F1F;\n    }\n    \n    .nestora-product-highlight .dark-section p {\n      color: #6E6E6E;\n    }\n  }\n</style>\n\n<div class=\"nestora-product-highlight\">\n  <h4>Luxury Mosquito Protection</h4>\n  <p>Experience the <span class=\"accent-text\">elegance of effective protection</span> with our premium mosquito repellent strap.</p>\n  \n  <div>\n    <span class=\"luxury-badge\">Natural Formula</span>\n    <span class=\"luxury-badge badge-gold\">Long-Lasting</span>\n    <span class=\"luxury-badge\">Wearable</span>\n  </div>\n  \n  <div class=\"divider\"></div>\n  \n  <div class=\"feature-grid\">\n    <div class=\"feature-grid-item\">\n      <strong>100 days</strong>\n      <span>Protection</span>\n    </div>\n    <div class=\"feature-grid-item\">\n      <strong>100%</strong>\n      <span>Natural</span>\n    </div>\n    <div class=\"feature-grid-item\">\n      <strong>Elegant</strong>\n      <span>Design</span>\n    </div>\n  </div>\n  \n  <div class=\"dark-section\">\n    <h5>Why Choose Nestora?</h5>\n    <p>Crafted with <span class=\"accent-text\">premium ingredients</span> and designed for the discerning customer who values both style and substance.</p>\n  </div>\n</div>"
+          }
+        },
+        "quantity_selector": {
+          "type": "quantity_selector",
+          "settings": {}
+        },
+        "gift_wrapping_EK3NQn": {
+          "type": "gift_wrapping",
+          "settings": {
+            "text_gift": "",
+            "color_icon_light": "rgba(0,0,0,0)",
+            "color_icon_dark": "rgba(0,0,0,0)"
+          }
+        },
+        "buy_buttons": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_button_style": "primary",
+            "show_dynamic_checkout": false,
+            "show_gift_card_recipient": true,
+            "pickup_availability": false,
+            "hide_when_pre_order": false,
+            "preorder_button_label": "Pre-order",
+            "preorder_message": "<p>This product will be available for sale in 2 weeks, but you can pre-order now to receive 10% discount!</p>",
+            "preorder_show_dynamic_button": false,
+            "show_background": false,
+            "box_type": "square",
+            "background_color_light": "rgba(0,0,0,0)",
+            "message_color_light": "rgba(0,0,0,0)",
+            "background_color_dark": "rgba(0,0,0,0)",
+            "message_color_dark": "rgba(0,0,0,0)",
+            "button_light": "#151515",
+            "button_text_light": "#ffffff",
+            "button_hover_light": "#151515",
+            "button_text_hover_light": "#ffffff",
+            "secondary_button_light": "#ffffff",
+            "secondary_button_text_light": "#151515",
+            "button_dark": "#c9a35a",
+            "button_text_dark": "#151515",
+            "button_hover_dark": "#c9a35a",
+            "button_text_hover_dark": "#151515",
+            "secondary_button_dark": "#ffffff",
+            "secondary_button_text_dark": "#151515"
+          }
+        },
+        "html_kd69QB": {
+          "type": "html",
+          "settings": {
+            "custom_html": "<div style=\"margin-top: 24px; padding: 20px 0; text-align: left; font-size: 16px; line-height: 1.8; letter-spacing: 0.3px;\"><p style=\"margin: 0; font-weight: 600; color: #1f1f1f;\"><span style=\"color: #3fae7c;\">✔</span> Secure Checkout</p><p style=\"margin: 0; font-weight: 600; color: #1f1f1f;\"><span style=\"color: #3fae7c;\">✔</span> Cash on Delivery</p><p style=\"margin: 0; font-weight: 600; color: #1f1f1f;\"><span style=\"color: #3fae7c;\">✔</span> Fast Delivery Across Lebanon</p></div>"
+          }
+        },
+        "feature_icon_99BxnX": {
+          "type": "feature_icon",
+          "settings": {
+            "applied_collections": [],
+            "heading_size": 110,
+            "icon_size": 30,
+            "border_column": "none",
+            "content_alignment": "start",
+            "background_color_light": "#fcfaf6",
+            "heading_light": "#1f1f1f",
+            "text_light": "#6e6e6e",
+            "line_border_light": "#e9e4dc",
+            "color_icon_light": "#c9a35a",
+            "background_color_dark": "#2a2a2a",
+            "heading_dark": "#fcfaf6",
+            "text_dark": "#9e9e9e",
+            "line_border_dark": "#3a3a3a",
+            "color_icon_dark": "#c9a35a",
+            "icon_1": "none",
+            "another_icon_1": "",
+            "custom_icon_1": "",
+            "title_1": "ICON",
+            "text_1": "<ul><li>Anti-Aging</li><li>Firms</li><li>Moisturizes</li></ul>",
+            "link_1": "",
+            "open_new_window_1": false,
+            "icon_2": "none",
+            "another_icon_2": "",
+            "custom_icon_2": "",
+            "title_2": "ICON",
+            "text_2": "<ul><li>Mature</li><li>Dry</li><li>Sensitive</li></ul>",
+            "link_2": "",
+            "open_new_window_2": false,
+            "icon_3": "none",
+            "another_icon_3": "",
+            "custom_icon_3": "",
+            "title_3": "ICON",
+            "text_3": "<p>Fragrance-free</p>",
+            "link_3": "",
+            "open_new_window_3": false,
+            "icon_4": "truck",
+            "another_icon_4": "",
+            "custom_icon_4": "",
+            "title_4": "",
+            "text_4": "",
+            "link_4": "",
+            "open_new_window_4": false,
+            "icon_5": "truck",
+            "another_icon_5": "",
+            "custom_icon_5": "",
+            "title_5": "",
+            "text_5": "",
+            "link_5": "",
+            "open_new_window_5": false,
+            "icon_6": "truck",
+            "another_icon_6": "",
+            "custom_icon_6": "",
+            "title_6": "",
+            "text_6": "",
+            "link_6": "",
+            "open_new_window_6": false
+          }
+        },
+        "description": {
+          "type": "description",
+          "settings": {
+            "show_in_tab": true,
+            "open_by_default": true,
+            "make_content_center": false,
+            "icon": "none",
+            "another_icon": "",
+            "custom_icon": "",
+            "heading": "Description",
+            "number_of_lines_shown": "none",
+            "read_more_label": "Read more",
+            "see_less_label": "See less"
+          }
+        },
+        "sticky-atc": {
+          "type": "sticky_add_to_cart",
+          "settings": {
+            "desktop_display_type": "full_width",
+            "show_quantity_selector": false
+          }
+        }
+      },
+      "block_order": [
+        "html_DK78JD",
+        "html_k6nFcL",
+        "product_name_xkPbAa",
+        "price",
+        "html_bm7Qqj",
+        "html_riyhhe",
+        "quantity_selector",
+        "gift_wrapping_EK3NQn",
+        "buy_buttons",
+        "html_kd69QB",
+        "feature_icon_99BxnX",
+        "description",
+        "sticky-atc"
+      ],
+      "settings": {
+        "enable_sticky_image": true,
+        "show_product_name": false,
+        "title_size": 100,
+        "heading_tag": "h1",
+        "show_vendor": false,
+        "link_vendor": false,
+        "make_content_center": false,
+        "desktop_layout": "left",
+        "desktop_media_layout": "thumbnail_slider",
+        "show_arrow_button": true,
+        "mobile_media_size": "75%",
+        "show_thumnail_mobile": true,
+        "image_ratio": "square",
+        "thumbnail_position": "horizontal",
+        "enable_image_zoom": false,
+        "zoom_effect": "enlarge",
+        "enable_video_autoplay": false,
+        "enable_video_loop": false,
+        "show_first_image_avaiable": true,
+        "show_media_with_variant_selected": false,
+        "option_to_classify_variant_media": "",
+        "enable_microdata": false,
+        "show_breadcrumbs": false,
+        "show_breadcrumbs_border": false,
+        "full_width_breadcrumb": false,
+        "desktop_content_alignment": "text-center",
+        "mobile_content_alignment": "text-center",
+        "background_color_light": "#fcfaf6",
+        "text_color_light": "#1f1f1f",
+        "textlink_color_light": "#c9a35a",
+        "background_color_dark": "#151515",
+        "text_color_dark": "#fcfaf6",
+        "textlink_color_dark": "#c9a35a",
+        "full_width": true,
+        "spacing_col": "small",
+        "padding_top": 60,
+        "padding_bottom": 40,
+        "padding_top_mobile": 40,
+        "padding_bottom_mobile": 28
+      }
+    },
+    "product-recommendations": {
+      "type": "product-recommendations",
+      "disabled": true,
+      "settings": {
+        "heading": "You May Also Like...",
+        "highlight_type": "underline",
+        "heading_size": 100,
+        "heading_tag": "h2",
+        "heading_alignment": "center",
+        "products_to_show": 5,
+        "background_color_light": "#f7f3ea",
+        "background_color_dark": "#121212",
+        "show_vendor": false,
+        "show_rating": true,
+        "show_quickview": true,
+        "enable_carousel_desktop": false,
+        "enable_swiper_mobile": true,
+        "columns_desktop": 5,
+        "full_width": true,
+        "show_section_divider": false,
+        "spacing": 28,
+        "padding_top": 56,
+        "padding_bottom": 88,
+        "columns_mobile": "1",
+        "show_section_divider_mobile": false,
+        "spacing_mobile": 16,
+        "padding_top_mobile": 0,
+        "padding_bottom_mobile": 20
+      }
+    },
+    "scrolling_banner_FihEbF": {
+      "type": "scrolling-banner",
+      "blocks": {
+        "text_DYJtQn": {
+          "type": "text",
+          "settings": {
+            "text": "Enjoy the outdoors without the buzz",
+            "highlight_type": "underline",
+            "text_size": 100,
+            "text_color": "primary",
+            "spacing_left": 0,
+            "spacing_right": 0,
+            "spacing_left_mobile": 0,
+            "spacing_right_mobile": 0
+          }
+        }
+      },
+      "block_order": [
+        "text_DYJtQn"
+      ],
+      "name": "t:sections.scrolling_promotion.presets.name",
+      "settings": {
+        "show_border": true,
+        "speed": 20,
+        "direction": "right",
+        "pause_hover": true,
+        "bg_light": "#151515",
+        "color_text_light": "#fcfaf6",
+        "color_text_light_2": "#9e9e9e",
+        "color_heading_highlight_light": "#c9a35a",
+        "bg_dark": "#151515",
+        "color_text_dark": "#fcfaf6",
+        "color_text_dark_2": "#9e9e9e",
+        "color_heading_highlight_dark": "#c9a35a",
+        "space_block": 110,
+        "padding_top": 28,
+        "padding_bottom": 28,
+        "space_block_mobile": 110,
+        "padding_top_mobile": 28,
+        "padding_bottom_mobile": 28
+      }
+    },
+    "image_with_text_pny4DB": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_pf9z9Y": {
+          "type": "heading",
+          "settings": {
+            "subheading": "",
+            "heading": "Natural Mosquito Protection",
+            "highlight_type": "underline",
+            "heading_base_size": 100,
+            "heading_tag": "h2",
+            "text": "<p>Enjoy outdoor activities with confidence using our Mosquito Repellent Hand Strap. Infused with natural plant-based essential oils, it helps keep mosquitoes away while providing a fresh and pleasant scent. Perfect for daily use, travel, camping, and family outings.</p><h3></h3>",
+            "number_of_lines_shown": "none",
+            "read_more_label": "Read more",
+            "see_less_label": "See less",
+            "heading_light": "rgba(0,0,0,0)",
+            "text_light": "rgba(0,0,0,0)",
+            "color_heading_highlight_light": "rgba(0,0,0,0)",
+            "heading_dark": "rgba(0,0,0,0)",
+            "text_dark": "rgba(0,0,0,0)",
+            "color_heading_highlight_dark": "rgba(0,0,0,0)"
+          }
+        }
+      },
+      "block_order": [
+        "heading_pf9z9Y"
+      ],
+      "name": "t:sections.image-with-text.presets.name",
+      "settings": {
+        "image": "shopify://shop_images/bracelet_1440x810_efa63bed-e430-4a89-ad25-95a503388bc4.jpg",
+        "show_sound_control": false,
+        "video_url": "",
+        "video_alt_text": "",
+        "enable_video_autoplay": false,
+        "desktop_height": "550px",
+        "mobile_height": "400px",
+        "desktop_image_width": "large",
+        "image_layout": "normal",
+        "image_corner_radius": 0,
+        "content_layout": "overlap",
+        "spacing_image": false,
+        "text_position": "center",
+        "text_alignment": "start",
+        "background_color_light": "#f7f3ea",
+        "background_color_dark": "#121212",
+        "line_border": "dashed",
+        "icon_position": "col",
+        "icon_size": 45,
+        "alignment": "center",
+        "columns_desktop": 4,
+        "columns_mobile": "2",
+        "heading_color_light": "#121212",
+        "text_color_light": "#4a4a4a",
+        "line_border_light": "#e5ded2",
+        "icon_color_light": "#d4b06a",
+        "heading_color_dark": "#f7f3ea",
+        "text_color_dark": "#d9d2c6",
+        "line_border_dark": "#2a2a2a",
+        "icon_color_dark": "#d4b06a",
+        "image_alignment": "left",
+        "full_width": false,
+        "padding_full_width": false,
+        "top_padding": 12,
+        "bottom_padding": 80,
+        "image_alignment_mobile": "left",
+        "full_width_mobile": false,
+        "top_padding_mobile": 0,
+        "bottom_padding_mobile": 0
+      }
+    },
+    "scrolling_banner_cXMWJF": {
+      "type": "scrolling-banner",
+      "blocks": {
+        "text_pycbn8": {
+          "type": "text",
+          "settings": {
+            "text": "Natural protection, all-day comfort.",
+            "highlight_type": "underline",
+            "text_size": 100,
+            "text_color": "primary",
+            "spacing_left": 0,
+            "spacing_right": 0,
+            "spacing_left_mobile": 0,
+            "spacing_right_mobile": 0
+          }
+        }
+      },
+      "block_order": [
+        "text_pycbn8"
+      ],
+      "name": "t:sections.scrolling_promotion.presets.name",
+      "settings": {
+        "show_border": true,
+        "speed": 20,
+        "direction": "right",
+        "pause_hover": true,
+        "bg_light": "#151515",
+        "color_text_light": "#fcfaf6",
+        "color_text_light_2": "#9e9e9e",
+        "color_heading_highlight_light": "#c9a35a",
+        "bg_dark": "#151515",
+        "color_text_dark": "#fcfaf6",
+        "color_text_dark_2": "#9e9e9e",
+        "color_heading_highlight_dark": "#c9a35a",
+        "space_block": 110,
+        "padding_top": 28,
+        "padding_bottom": 28,
+        "space_block_mobile": 110,
+        "padding_top_mobile": 28,
+        "padding_bottom_mobile": 28
+      }
+    },
+    "image_with_text_3DwQRt": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_phxWYV": {
+          "type": "heading",
+          "settings": {
+            "subheading": "",
+            "heading": "Comfortable, Waterproof & Family-Friendly",
+            "highlight_type": "underline",
+            "heading_base_size": 100,
+            "heading_tag": "h2",
+            "text": "<p>Designed for both children and adults, this lightweight and adjustable bracelet offers all-day comfort. Its waterproof construction makes it ideal for sports, hiking, and outdoor adventures, ensuring reliable protection wherever you go.</p>",
+            "number_of_lines_shown": "none",
+            "read_more_label": "Read more",
+            "see_less_label": "See less",
+            "heading_light": "rgba(0,0,0,0)",
+            "text_light": "rgba(0,0,0,0)",
+            "color_heading_highlight_light": "rgba(0,0,0,0)",
+            "heading_dark": "rgba(0,0,0,0)",
+            "text_dark": "rgba(0,0,0,0)",
+            "color_heading_highlight_dark": "rgba(0,0,0,0)"
+          }
+        }
+      },
+      "block_order": [
+        "heading_phxWYV"
+      ],
+      "name": "t:sections.image-with-text.presets.name",
+      "settings": {
+        "image": "shopify://shop_images/ChatGPT_Image_Jul_1_2026_12_05_56_PM.png",
+        "show_sound_control": false,
+        "video_url": "",
+        "video_alt_text": "",
+        "enable_video_autoplay": false,
+        "desktop_height": "550px",
+        "mobile_height": "400px",
+        "desktop_image_width": "large",
+        "image_layout": "normal",
+        "image_corner_radius": 0,
+        "content_layout": "overlap",
+        "spacing_image": false,
+        "text_position": "center",
+        "text_alignment": "start",
+        "background_color_light": "#f7f3ea",
+        "background_color_dark": "#121212",
+        "line_border": "dashed",
+        "icon_position": "col",
+        "icon_size": 45,
+        "alignment": "center",
+        "columns_desktop": 4,
+        "columns_mobile": "2",
+        "heading_color_light": "#121212",
+        "text_color_light": "#4a4a4a",
+        "line_border_light": "#e5ded2",
+        "icon_color_light": "#d4b06a",
+        "heading_color_dark": "#f7f3ea",
+        "text_color_dark": "#d9d2c6",
+        "line_border_dark": "#2a2a2a",
+        "icon_color_dark": "#d4b06a",
+        "image_alignment": "left",
+        "full_width": false,
+        "padding_full_width": false,
+        "top_padding": 12,
+        "bottom_padding": 0,
+        "image_alignment_mobile": "left",
+        "full_width_mobile": false,
+        "top_padding_mobile": 0,
+        "bottom_padding_mobile": 0
+      }
+    },
+    "comparison_table_4W6FV6": {
+      "type": "comparison-table",
+      "blocks": {
+        "criterion_rNJJc4": {
+          "type": "criterion",
+          "settings": {
+            "heading": "Natural Essential Oils",
+            "criterion_detail_product": "Yes",
+            "criterion_detail_externals": "No\nNo\nNo\nNo"
+          }
+        },
+        "criterion_4NELMY": {
+          "type": "criterion",
+          "settings": {
+            "heading": "Waterproof Design",
+            "criterion_detail_product": "Yes",
+            "criterion_detail_externals": "No\nNo\nNo\nNo"
+          }
+        },
+        "criterion_yUcU3i": {
+          "type": "criterion",
+          "settings": {
+            "heading": "Ideal for Outdoor Activities",
+            "criterion_detail_product": "Yes",
+            "criterion_detail_externals": "No\nNo\nNo\nNo"
+          }
+        }
+      },
+      "block_order": [
+        "criterion_rNJJc4",
+        "criterion_4NELMY",
+        "criterion_yUcU3i"
+      ],
+      "name": "t:sections.comparision-table.name",
+      "settings": {
+        "heading": "Us vs Them",
+        "highlight_type": "underline",
+        "heading_size": 100,
+        "heading_tag": "h2",
+        "heading_alignment": "center",
+        "description": "",
+        "product": "mosquito-repellent-hand-strap",
+        "alternative_text": "",
+        "external_item_labels": "Others",
+        "background_color_light": "#ffffff",
+        "heading_light": "#121212",
+        "color_heading_highlight_light": "rgba(0,0,0,0)",
+        "text_light": "#4a4a4a",
+        "column_highlight_light": "#f7f3ea",
+        "line_border": "#e5ded2",
+        "background_color_dark": "#2f312d",
+        "heading_dark": "#f7f3ea",
+        "color_heading_highlight_dark": "rgba(0,0,0,0)",
+        "text_dark": "#d9d2c6",
+        "column_highlight_dark": "#121212",
+        "line_border_dark": "#2a2a2a",
+        "full_width": false,
+        "show_section_divider": false,
+        "padding_top": 28,
+        "padding_bottom": 28,
+        "show_section_divider_mobile": false,
+        "padding_top_mobile": 28,
+        "padding_bottom_mobile": 28
+      }
+    },
+    "faq_byLxM7": {
+      "type": "faq",
+      "blocks": {
+        "frequently_asked_question_tdwyep": {
+          "type": "frequently_asked_question",
+          "settings": {
+            "icon": "faq",
+            "another_icon": "",
+            "custom_icon": "",
+            "heading": "Is the bracelet safe for children?",
+            "row_content": "<p><strong>Yes</strong>, it is designed to be comfortable and suitable for both children and adults.<br/><br/></p>"
+          }
+        },
+        "frequently_asked_question_qKUeCx": {
+          "type": "frequently_asked_question",
+          "settings": {
+            "icon": "faq",
+            "another_icon": "",
+            "custom_icon": "",
+            "heading": "Is the bracelet waterproof?",
+            "row_content": "<p><strong>Yes</strong>, the strap is waterproof and perfect for outdoor activities.<br/><br/></p>"
+          }
+        },
+        "frequently_asked_question_p9THCx": {
+          "type": "frequently_asked_question",
+          "settings": {
+            "icon": "faq",
+            "another_icon": "",
+            "custom_icon": "",
+            "heading": "How does the bracelet work?",
+            "row_content": "<p><br/>It uses natural essential oils that help repel mosquitoes while providing a pleasant scent.<br/><br/></p>"
+          }
+        },
+        "frequently_asked_question_KdBJC7": {
+          "type": "frequently_asked_question",
+          "settings": {
+            "icon": "faq",
+            "another_icon": "",
+            "custom_icon": "",
+            "heading": "Where can I use the mosquito repellent bracelet?",
+            "row_content": "<p><br/>It is ideal for camping, hiking, traveling, parks, gardens, sports, and everyday outdoor activities.<br/><br/></p>"
+          }
+        }
+      },
+      "block_order": [
+        "frequently_asked_question_tdwyep",
+        "frequently_asked_question_qKUeCx",
+        "frequently_asked_question_p9THCx",
+        "frequently_asked_question_KdBJC7"
+      ],
+      "name": "t:sections.question_and_answer.presets.name",
+      "settings": {
+        "heading": "FAQs",
+        "highlight_type": "underline",
+        "heading_size": 100,
+        "heading_tag": "h2",
+        "heading_alignment": "center",
+        "show_border": false,
+        "row_background": false,
+        "collapsible": true,
+        "show_view_all": true,
+        "view_all_position": "top",
+        "button_link": "",
+        "open_new_window": false,
+        "background_color_light": "#f2ece3",
+        "background_color_dark": "#2a2a2a",
+        "enable_microdata_schema": false,
+        "desktop_layout": "1",
+        "image_alignment": "left",
+        "desktop_height": "400px",
+        "show_section_divider": false,
+        "make_full_page_width": false,
+        "padding_top": 40,
+        "padding_bottom": 40,
+        "image_alignment_mobile": "left",
+        "mobile_height": "250px",
+        "show_section_divider_mobile": false,
+        "padding_top_mobile": 28,
+        "padding_bottom_mobile": 28
+      }
+    },
+    "178018633986a628e6": {
+      "type": "apps",
+      "blocks": {
+        "judge_me_reviews_review_widget_MxjYDV": {
+          "type": "shopify://apps/judge-me-reviews/blocks/review_widget/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "settings": {
+            "review_data": "real_data",
+            "max_width": 1200,
+            "show_shop_reviews": false,
+            "empty_state": "empty_widget"
+          }
+        }
+      },
+      "block_order": [
+        "judge_me_reviews_review_widget_MxjYDV"
+      ],
+      "settings": {
+        "include_margins": true
+      }
+    },
+    "1774373014960824ac": {
+      "type": "apps",
+      "settings": {
+        "include_margins": true
+      }
+    },
+    "331e6fca-2947-4a19-89c5-9396be0d666a": {
+      "type": "multicolumn",
+      "blocks": {
+        "template--21918975852859__331e6fca-2947-4a19-89c5-9396be0d666a-column-3": {
+          "type": "column",
+          "settings": {
+            "icon": "truck",
+            "another_icon": "",
+            "custom_icon": "",
+            "title": "Delivery All Over Lebanon",
+            "highlight_type": "underline",
+            "title_link": "",
+            "open_new_window": false,
+            "heading_size": 100,
+            "text": ""
+          }
+        },
+        "template--21918975852859__331e6fca-2947-4a19-89c5-9396be0d666a-column-4": {
+          "type": "column",
+          "settings": {
+            "icon": "telephone",
+            "another_icon": "",
+            "custom_icon": "",
+            "title": "24/7 support",
+            "highlight_type": "underline",
+            "title_link": "",
+            "open_new_window": false,
+            "heading_size": 100,
+            "text": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--21918975852859__331e6fca-2947-4a19-89c5-9396be0d666a-column-3",
+        "template--21918975852859__331e6fca-2947-4a19-89c5-9396be0d666a-column-4"
+      ],
+      "settings": {
+        "title": "",
+        "highlight_type": "underline",
+        "heading_size": 100,
+        "heading_tag": "h2",
+        "secondary_background": "column",
+        "border_column": "none",
+        "column_content_alignment": "center",
+        "icon_position": "above",
+        "icon_size": 45,
+        "enable_desktop_slider": false,
+        "swiper_on_mobile": true,
+        "auto_play": true,
+        "change_bar_every": 5,
+        "background_color_light": "#fcfaf6",
+        "heading_light": "#1f1f1f",
+        "text_light": "#6e6e6e",
+        "color_heading_highlight_light": "#c9a35a",
+        "line_border_light": "#e9e4dc",
+        "color_icon_light": "#c9a35a",
+        "background_color_dark": "#2a2a2a",
+        "heading_dark": "#fcfaf6",
+        "text_dark": "#9e9e9e",
+        "color_heading_highlight_dark": "#c9a35a",
+        "line_border_dark": "#3a3a3a",
+        "color_icon_dark": "#c9a35a",
+        "column_layout_desktop": "lg:w-1/4",
+        "section_height_desktop": "md:py-7",
+        "spacing_desktop": 28,
+        "full_width": false,
+        "padding_full_width": false,
+        "show_section_divider": false,
+        "padding_top": 28,
+        "padding_bottom": 28,
+        "column_layout_mobile": "w-full",
+        "section_height_mobile": "py-5",
+        "spacing_mobile": 16,
+        "full_width_mobile": true,
+        "show_section_divider_mobile": false,
+        "padding_top_mobile": 20,
+        "padding_bottom_mobile": 20
+      }
+    }
+  },
+  "order": [
+    "main",
+    "product-recommendations",
+    "scrolling_banner_FihEbF",
+    "image_with_text_pny4DB",
+    "scrolling_banner_cXMWJF",
+    "image_with_text_3DwQRt",
+    "comparison_table_4W6FV6",
+    "faq_byLxM7",
+    "178018633986a628e6",
+    "1774373014960824ac",
+    "331e6fca-2947-4a19-89c5-9396be0d666a"
+  ]
+}
