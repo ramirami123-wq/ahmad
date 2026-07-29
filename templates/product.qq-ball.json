@@ -12,6 +12,13 @@
     "main": {
       "type": "main-product",
       "blocks": {
+        "product_name_xkPbAa": {
+          "type": "product_name",
+          "settings": {
+            "title_size": 100,
+            "heading_tag": "h1"
+          }
+        },
         "html_DK78JD": {
           "type": "html",
           "settings": {
@@ -22,13 +29,6 @@
           "type": "html",
           "settings": {
             "custom_html": "<style>\n  .nestora-luxury-block {\n    background: linear-gradient(135deg, #FCFAF6 0%, #F2ECE3 100%);\n    border: 1px solid #E9E4DC;\n    border-radius: 8px;\n    padding: 40px;\n    margin: 20px 0;\n    text-align: center;\n  }\n  \n  .nestora-luxury-block h3 {\n    color: #1F1F1F;\n    font-size: 24px;\n    font-weight: 600;\n    margin-bottom: 16px;\n    letter-spacing: 0.5px;\n  }\n  \n  .nestora-luxury-block p {\n    color: #6E6E6E;\n    font-size: 16px;\n    line-height: 1.6;\n    margin-bottom: 24px;\n  }\n  \n  .nestora-luxury-block .highlight {\n    color: #C9A35A;\n    font-weight: 600;\n  }\n  \n  .nestora-luxury-block .feature-list {\n    display: flex;\n    justify-content: center;\n    gap: 24px;\n    margin-top: 32px;\n    flex-wrap: wrap;\n  }\n  \n  .nestora-luxury-block .feature-item {\n    flex: 1;\n    min-width: 150px;\n    padding: 16px;\n    border-left: 2px solid #C9A35A;\n    text-align: left;\n  }\n  \n  .nestora-luxury-block .feature-item strong {\n    color: #1F1F1F;\n    display: block;\n    margin-bottom: 8px;\n  }\n  \n  .nestora-luxury-block .feature-item span {\n    color: #6E6E6E;\n    font-size: 14px;\n  }\n  \n  @media (max-width: 768px) {\n    .nestora-luxury-block {\n      padding: 24px;\n    }\n    \n    .nestora-luxury-block h3 {\n      font-size: 20px;\n    }\n    \n    .nestora-luxury-block .feature-list {\n      gap: 16px;\n    }\n  }\n  \n  @media (prefers-color-scheme: dark) {\n    .nestora-luxury-block {\n      background: linear-gradient(135deg, #2A2A2A 0%, #1F1F1F 100%);\n      border-color: #3A3A3A;\n    }\n    \n    .nestora-luxury-block h3 {\n      color: #FCFAF6;\n    }\n    \n    .nestora-luxury-block p {\n      color: #9E9E9E;\n    }\n    \n    .nestora-luxury-block .feature-item strong {\n      color: #FCFAF6;\n    }\n    \n    .nestora-luxury-block .feature-item span {\n      color: #9E9E9E;\n    }\n  }\n</style>\n\n<div class=\"nestora-luxury-block\">\n  <h3>Meet Your New AI Companion</h3>\n  <p>A smart AI companion that <span class=\"highlight\">speaks Arabic and supports over 65 languages</span>, designed to make every conversation more enjoyable wherever you go.</p>\n\n  <div class=\"feature-list\">\n    <div class=\"feature-item\">\n      <strong>🗣️ Speaks Arabic</strong>\n      <span>Native Arabic support</span>\n    </div>\n    <div class=\"feature-item\">\n      <strong>🌍 65+ Languages</strong>\n      <span>Global communication</span>\n    </div>\n    <div class=\"feature-item\">\n      <strong>🤖 Interactive Conversations</strong>\n      <span>Smart & engaging</span>\n    </div>\n    <div class=\"feature-item\">\n      <strong>🎒 Portable Companion</strong>\n      <span>Go anywhere</span>\n    </div>\n  </div>\n</div>"
-          }
-        },
-        "product_name_xkPbAa": {
-          "type": "product_name",
-          "settings": {
-            "title_size": 100,
-            "heading_tag": "h1"
           }
         },
         "price": {
@@ -185,9 +185,9 @@
         }
       },
       "block_order": [
+        "product_name_xkPbAa",
         "html_DK78JD",
         "html_k6nFcL",
-        "product_name_xkPbAa",
         "price",
         "html_bm7Qqj",
         "html_riyhhe",
