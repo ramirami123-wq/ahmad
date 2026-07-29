@@ -12,6 +12,15 @@
     "main": {
       "type": "main-product",
       "blocks": {
+        "variant_picker_fN7Qyi": {
+          "type": "variant_picker",
+          "settings": {
+            "picker_type": "button",
+            "show_variant_option": true,
+            "enable_color_swatches": false,
+            "swatch_size": "small"
+          }
+        },
         "product_name_xkPbAa": {
           "type": "product_name",
           "settings": {
@@ -185,6 +194,7 @@
         }
       },
       "block_order": [
+        "variant_picker_fN7Qyi",
         "product_name_xkPbAa",
         "html_DK78JD",
         "html_k6nFcL",
