@@ -412,6 +412,55 @@
         "padding_bottom_mobile": 28
       }
     },
+    "1785655519dfb35082": {
+      "type": "_blocks",
+      "blocks": {
+        "ai_gen_block_d7d53a9_aniQEh": {
+          "type": "ai_gen_block_d7d53a9",
+          "disabled": true,
+          "settings": {
+            "heading": "Why Nestora AI Companion is Different",
+            "heading_size": 32,
+            "heading_spacing": 30,
+            "heading_alignment": "center",
+            "heading_color": "#000000",
+            "others_label": "Others",
+            "nestora_label": "Nestora",
+            "header_font_size": 18,
+            "row_1_others": "English only",
+            "row_1_nestora": "Arabic + 65 Languages",
+            "row_2_others": "Screen-based",
+            "row_2_nestora": "Plush Companion",
+            "row_3_others": "Generic AI",
+            "row_3_nestora": "Interactive Conversations",
+            "row_4_others": "Hard to carry",
+            "row_4_nestora": "Pocket Size",
+            "desktop_width_percent": 100,
+            "section_padding": 40,
+            "cell_padding": 20,
+            "body_font_size": 16,
+            "icon_size": 20,
+            "border_radius": 8,
+            "table_background": "#FFFFFF",
+            "header_background": "#F6F6F6",
+            "header_text_color": "#000000",
+            "accent_color": "#FB8500",
+            "accent_text_color": "#FFFFFF",
+            "others_background": "#FFFFFF",
+            "nestora_background": "#FFF8F0",
+            "body_text_color": "#525151",
+            "border_color": "#F2F2F2",
+            "negative_icon_color": "#CE021E",
+            "positive_icon_color": "#058942"
+          },
+          "blocks": {}
+        }
+      },
+      "block_order": [
+        "ai_gen_block_d7d53a9_aniQEh"
+      ],
+      "settings": {}
+    },
     "multicolumn_bbt7xk": {
       "type": "multicolumn",
       "blocks": {
@@ -561,54 +610,6 @@
         "ai_gen_block_40f18e3_HXayPX"
       ],
       "settings": {}
-    },
-    "1785655519dfb35082": {
-      "type": "_blocks",
-      "blocks": {
-        "ai_gen_block_d7d53a9_aniQEh": {
-          "type": "ai_gen_block_d7d53a9",
-          "settings": {
-            "heading": "Why Nestora AI Companion is Different",
-            "heading_size": 32,
-            "heading_spacing": 30,
-            "heading_alignment": "center",
-            "heading_color": "#000000",
-            "others_label": "Others",
-            "nestora_label": "Nestora",
-            "header_font_size": 18,
-            "row_1_others": "English only",
-            "row_1_nestora": "Arabic + 65 Languages",
-            "row_2_others": "Screen-based",
-            "row_2_nestora": "Plush Companion",
-            "row_3_others": "Generic AI",
-            "row_3_nestora": "Interactive Conversations",
-            "row_4_others": "Hard to carry",
-            "row_4_nestora": "Pocket Size",
-            "desktop_width_percent": 100,
-            "section_padding": 40,
-            "cell_padding": 20,
-            "body_font_size": 16,
-            "icon_size": 20,
-            "border_radius": 8,
-            "table_background": "#FFFFFF",
-            "header_background": "#F6F6F6",
-            "header_text_color": "#000000",
-            "accent_color": "#FB8500",
-            "accent_text_color": "#FFFFFF",
-            "others_background": "#FFFFFF",
-            "nestora_background": "#FFF8F0",
-            "body_text_color": "#525151",
-            "border_color": "#F2F2F2",
-            "negative_icon_color": "#CE021E",
-            "positive_icon_color": "#058942"
-          },
-          "blocks": {}
-        }
-      },
-      "block_order": [
-        "ai_gen_block_d7d53a9_aniQEh"
-      ],
-      "settings": {}
     }
   },
   "order": [
@@ -617,8 +618,8 @@
     "featured_collection_F8bqD8",
     "scrolling_banner_6fW3xL",
     "rich_text_iRYjAW",
-    "1785655519dfb35082",
     "faq_McEVrE",
+    "1785655519dfb35082",
     "multicolumn_bbt7xk",
     "1782737119aa9f7d9b",
     "17844432027759ccb8"
