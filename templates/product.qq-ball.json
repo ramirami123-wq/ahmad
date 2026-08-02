@@ -9,6 +9,44 @@
  */
 {
   "sections": {
+    "17856793322e3bf26b": {
+      "type": "_blocks",
+      "blocks": {
+        "ai_gen_block_dd5810e_6N4FyA": {
+          "type": "ai_gen_block_dd5810e",
+          "settings": {
+            "show_badge_1": true,
+            "badge_1_text": "Limited Launch Offer",
+            "badge_1_icon": "tag",
+            "show_badge_2": true,
+            "badge_2_text": "Free Delivery",
+            "badge_2_icon": "truck",
+            "alignment": "flex-start",
+            "mobile_alignment": "flex-start",
+            "badge_spacing": 8,
+            "background_color": "#f8f4ee",
+            "text_color": "#3a312b",
+            "border_color": "#f8f4ee",
+            "border_width": 1,
+            "hover_background_color": "#ede7dd",
+            "hover_text_color": "#3a312b",
+            "hover_border_color": "#ede7dd",
+            "border_radius": 20,
+            "font_size": 18,
+            "font_weight": "600",
+            "horizontal_padding": 20,
+            "vertical_padding": 12,
+            "icon_size": 20,
+            "icon_spacing": 4
+          },
+          "blocks": {}
+        }
+      },
+      "block_order": [
+        "ai_gen_block_dd5810e_6N4FyA"
+      ],
+      "settings": {}
+    },
     "main": {
       "type": "main-product",
       "blocks": {
@@ -880,9 +918,58 @@
         "padding_top_mobile": 20,
         "padding_bottom_mobile": 20
       }
+    },
+    "178567910472a107a7": {
+      "type": "_blocks",
+      "blocks": {
+        "ai_gen_block_8e50d96_iWqWAb": {
+          "type": "ai_gen_block_8e50d96",
+          "disabled": true,
+          "settings": {
+            "desktop_width_percent": 100,
+            "mobile_layout": "stacked",
+            "padding": 20,
+            "padding_mobile": 15,
+            "gap": 20,
+            "gap_mobile": 15,
+            "border_radius": 10,
+            "background_color": "#000000",
+            "item_padding": 30,
+            "item_padding_mobile": 20,
+            "item_gap": 15,
+            "item_border_radius": 5,
+            "item_background_color": "#1a1a1a",
+            "show_icon_1": true,
+            "custom_icon_1": "",
+            "title_1": "Limited Launch Offer",
+            "subtitle_1": "Exclusive early access pricing",
+            "show_icon_2": true,
+            "custom_icon_2": "",
+            "title_2": "Free Delivery",
+            "subtitle_2": "On all orders this week",
+            "icon_size": 50,
+            "icon_size_mobile": 40,
+            "icon_background_color": "#FB8500",
+            "icon_color": "#000000",
+            "title_size": 24,
+            "title_size_mobile": 18,
+            "title_weight": "700",
+            "title_color": "#FFFFFF",
+            "subtitle_size": 14,
+            "subtitle_size_mobile": 12,
+            "subtitle_color": "#CCCCCC"
+          },
+          "blocks": {}
+        }
+      },
+      "block_order": [
+        "ai_gen_block_8e50d96_iWqWAb"
+      ],
+      "settings": {}
     }
   },
   "order": [
+    "17856793322e3bf26b",
     "main",
     "product-recommendations",
     "scrolling_banner_FihEbF",
@@ -895,6 +982,7 @@
     "faq_byLxM7",
     "178018633986a628e6",
     "1774373014960824ac",
-    "331e6fca-2947-4a19-89c5-9396be0d666a"
+    "331e6fca-2947-4a19-89c5-9396be0d666a",
+    "178567910472a107a7"
   ]
 }
