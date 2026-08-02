@@ -175,7 +175,7 @@
         "text_zYmrxL": {
           "type": "text",
           "settings": {
-            "text": "Aesthetic Smart Living Essentials",
+            "text": "🚚 Fast Delivery Across Lebanon 🇱🇧 | 💳 Cash on Delivery | 🎁 Perfect Gifts",
             "highlight_type": "underline",
             "text_size": 120,
             "text_color": "primary",
@@ -191,7 +191,7 @@
       ],
       "settings": {
         "show_border": false,
-        "speed": 30,
+        "speed": 50,
         "direction": "right",
         "pause_hover": false,
         "bg_light": "#151515",
