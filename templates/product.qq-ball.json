@@ -511,7 +511,7 @@
         "criterion_rNJJc4": {
           "type": "criterion",
           "settings": {
-            "heading": "Natural Essential Oils",
+            "heading": "AI Conversations",
             "criterion_detail_product": "Yes",
             "criterion_detail_externals": "No\nNo\nNo\nNo"
           }
@@ -519,7 +519,7 @@
         "criterion_4NELMY": {
           "type": "criterion",
           "settings": {
-            "heading": "Waterproof Design",
+            "heading": "Interactive",
             "criterion_detail_product": "Yes",
             "criterion_detail_externals": "No\nNo\nNo\nNo"
           }
@@ -527,7 +527,7 @@
         "criterion_yUcU3i": {
           "type": "criterion",
           "settings": {
-            "heading": "Ideal for Outdoor Activities",
+            "heading": "Everyday Companion",
             "criterion_detail_product": "Yes",
             "criterion_detail_externals": "No\nNo\nNo\nNo"
           }
@@ -579,8 +579,8 @@
             "icon": "faq",
             "another_icon": "",
             "custom_icon": "",
-            "heading": "Is the bracelet safe for children?",
-            "row_content": "<p><strong>Yes</strong>, it is designed to be comfortable and suitable for both children and adults.<br/><br/></p>"
+            "heading": "What is the Nestora AI Companion?",
+            "row_content": "<p><br/>Nestora AI Companion is a smart interactive plush companion that lets you chat naturally using AI. It supports Arabic and more than 65 languages, making conversations easy and enjoyable wherever you are.<br/><br/></p>"
           }
         },
         "frequently_asked_question_qKUeCx": {
@@ -589,8 +589,8 @@
             "icon": "faq",
             "another_icon": "",
             "custom_icon": "",
-            "heading": "Is the bracelet waterproof?",
-            "row_content": "<p><strong>Yes</strong>, the strap is waterproof and perfect for outdoor activities.<br/><br/></p>"
+            "heading": "Which languages does it support?",
+            "row_content": "<p>It supports <strong>Arabic</strong> and <strong>65 languages</strong>, allowing you to communicate in the language you're most comfortable with.</p>"
           }
         },
         "frequently_asked_question_p9THCx": {
@@ -599,8 +599,8 @@
             "icon": "faq",
             "another_icon": "",
             "custom_icon": "",
-            "heading": "How does the bracelet work?",
-            "row_content": "<p><br/>It uses natural essential oils that help repel mosquitoes while providing a pleasant scent.<br/><br/></p>"
+            "heading": "Is it suitable for both kids and adults?",
+            "row_content": "<p><br/>Yes! Nestora AI Companion is designed for anyone who enjoys interactive AI conversations. Children should use it under adult supervision.<br/><br/></p>"
           }
         },
         "frequently_asked_question_KdBJC7": {
@@ -609,8 +609,8 @@
             "icon": "faq",
             "another_icon": "",
             "custom_icon": "",
-            "heading": "Where can I use the mosquito repellent bracelet?",
-            "row_content": "<p><br/>It is ideal for camping, hiking, traveling, parks, gardens, sports, and everyday outdoor activities.<br/><br/></p>"
+            "heading": "Is it rechargeable?",
+            "row_content": "<p>Yes. It comes with a rechargeable battery for convenient everyday use.</p>"
           }
         }
       },
