@@ -356,7 +356,7 @@
         "text_DYie9T": {
           "type": "text",
           "settings": {
-            "text": "<ul><li>Premium Quality</li><li>Fast Delivery Across Lebanon</li><li>Cash on Delivery</li><li>Friendly Customer Support</li></ul>",
+            "text": "<p>⭐ <strong>Premium Quality</strong><br/><br/>Carefully selected products you'll love.</p><p>🚚 <strong>Fast Delivery</strong><br/><br/>Delivery across Lebanon.</p><p>💳 <strong>Cash on Delivery</strong><br/><br/>Pay when your order arrives.</p><p>💬 <strong>Customer Support</strong><br/><br/>We're here whenever you need us.</p>",
             "number_of_lines_shown": "none",
             "read_more_label": "Read more",
             "see_less_label": "See less"
