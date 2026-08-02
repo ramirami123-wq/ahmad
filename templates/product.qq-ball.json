@@ -521,7 +521,7 @@
         "criterion_4NELMY": {
           "type": "criterion",
           "settings": {
-            "heading": "Interactive",
+            "heading": "Speaks Arabic",
             "criterion_detail_product": "Yes",
             "criterion_detail_externals": "No\nNo\nNo\nNo"
           }
@@ -529,7 +529,15 @@
         "criterion_yUcU3i": {
           "type": "criterion",
           "settings": {
-            "heading": "Everyday Companion",
+            "heading": "Interactive Stories",
+            "criterion_detail_product": "Yes",
+            "criterion_detail_externals": "No\nNo\nNo\nNo"
+          }
+        },
+        "criterion_kpnjbJ": {
+          "type": "criterion",
+          "settings": {
+            "heading": "Portable Keychain",
             "criterion_detail_product": "Yes",
             "criterion_detail_externals": "No\nNo\nNo\nNo"
           }
@@ -538,7 +546,8 @@
       "block_order": [
         "criterion_rNJJc4",
         "criterion_4NELMY",
-        "criterion_yUcU3i"
+        "criterion_yUcU3i",
+        "criterion_kpnjbJ"
       ],
       "name": "t:sections.comparision-table.name",
       "settings": {
