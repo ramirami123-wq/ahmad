@@ -347,7 +347,7 @@
         "heading_FKqVLq": {
           "type": "heading",
           "settings": {
-            "heading": "Welcome to Nestora",
+            "heading": "Why Choose Nestora?",
             "highlight_type": "underline",
             "heading_size": 100,
             "heading_tag": "h2"
@@ -356,7 +356,7 @@
         "text_DYie9T": {
           "type": "text",
           "settings": {
-            "text": "<p>At Nestora, we believe that small details can make everyday life feel softer, easier, and more beautiful.</p><p>That's why we offer a curated selection of aesthetic everyday essentials — smart little finds designed to bring comfort, ease, and style into your daily routine.</p><p>From seasonal must-haves to practical lifestyle picks, every item is chosen to help you enjoy simpler, cozier, and more effortless days.</p><p><br/><strong>Nestora — Little essentials, softer days.</strong><br/><br/></p>",
+            "text": "<ul><li>Premium Quality</li><li>Fast Delivery Across Lebanon</li><li>Cash on Delivery</li><li>Friendly Customer Support</li></ul>",
             "number_of_lines_shown": "none",
             "read_more_label": "Read more",
             "see_less_label": "See less"
@@ -377,12 +377,12 @@
         "text_dark": "#9e9e9e",
         "color_heading_highlight_dark": "#c9a35a",
         "background_color_dark": "#2a2a2a",
-        "content_alignment": "center",
+        "content_alignment": "left",
         "show_section_divider": false,
         "make_full_page_width": true,
         "padding_top": 28,
         "padding_bottom": 28,
-        "content_alignment_mobile": "center",
+        "content_alignment_mobile": "left",
         "show_section_divider_mobile": false,
         "padding_top_mobile": 28,
         "padding_bottom_mobile": 28
