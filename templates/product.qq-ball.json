@@ -16,7 +16,7 @@
           "type": "ai_gen_block_dd5810e",
           "settings": {
             "show_badge_1": true,
-            "badge_1_text": "Limited Launch Offer",
+            "badge_1_text": "Special Offer",
             "badge_1_icon": "tag",
             "show_badge_2": true,
             "badge_2_text": "Free Delivery",
@@ -79,7 +79,7 @@
         "html_bm7Qqj": {
           "type": "html",
           "settings": {
-            "custom_html": "<div class=\"product-highlights\" style=\"margin: 20px 0; padding: 16px 0; border-top: 1px solid #e9e4dc; border-bottom: 1px solid #e9e4dc;\">\n  <div style=\"font-size: 15px; line-height: 1.8; color: #6e6e6e; font-weight: 700; letter-spacing: 0.3px;\">\n    \n\n    <div style=\"margin-bottom: 8px;\">🚚 Free Delivery All Over Lebanon</div>\n    <div>💵 Cash on Delivery</div>\n  </div>\n</div>"
+            "custom_html": "<style>\n  #template--21200282058830__main__html_bm7Qqj {\n    font-weight: bold;\n    font-size: 1.2em;\n  }\n  \n  #template--21200282058830__main__html_bm7Qqj * {\n    font-weight: bold;\n    font-size: 1.2em;\n  }\n</style>"
           }
         },
         "html_riyhhe": {
