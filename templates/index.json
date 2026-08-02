@@ -191,7 +191,7 @@
       ],
       "settings": {
         "show_border": false,
-        "speed": 10,
+        "speed": 30,
         "direction": "right",
         "pause_hover": false,
         "bg_light": "#151515",
@@ -318,6 +318,7 @@
       "block_order": [
         "text_ARBErC"
       ],
+      "disabled": true,
       "name": "t:sections.scrolling_promotion.presets.name",
       "settings": {
         "show_border": true,
@@ -604,6 +605,7 @@
       "block_order": [
         "ai_gen_block_efeb845_4X7zcy"
       ],
+      "disabled": true,
       "settings": {}
     },
     "17844432027759ccb8": {
