@@ -657,6 +657,48 @@
         "ai_gen_block_40f18e3_HXayPX"
       ],
       "settings": {}
+    },
+    "1785678408705141ae": {
+      "type": "_blocks",
+      "blocks": {
+        "ai_gen_block_d860e3a_hy8Fpe": {
+          "type": "ai_gen_block_d860e3a",
+          "settings": {
+            "layout": "horizontal",
+            "alignment": "center",
+            "desktop_width_percent": 100,
+            "section_padding": 60,
+            "badge_spacing": 40,
+            "icon_text_gap": 8,
+            "mobile_layout": "scroll",
+            "mobile_badge_spacing": 20,
+            "icon_size": 48,
+            "mobile_icon_size": 36,
+            "icon_color": "#000000",
+            "text_size": 18,
+            "mobile_text_size": 16,
+            "text_color": "#525151",
+            "text_weight": "600",
+            "badge_1_enabled": false,
+            "badge_1_icon": "lock",
+            "badge_1_text": "Secure Checkout",
+            "badge_2_enabled": true,
+            "badge_2_icon": "truck",
+            "badge_2_text": "Free Delivery",
+            "badge_3_enabled": false,
+            "badge_3_icon": "refresh",
+            "badge_3_text": "Free Returns",
+            "badge_4_enabled": false,
+            "badge_4_icon": "shield",
+            "badge_4_text": "Money-Back Guarantee"
+          },
+          "blocks": {}
+        }
+      },
+      "block_order": [
+        "ai_gen_block_d860e3a_hy8Fpe"
+      ],
+      "settings": {}
     }
   },
   "order": [
@@ -669,6 +711,7 @@
     "1785655519dfb35082",
     "multicolumn_bbt7xk",
     "1782737119aa9f7d9b",
-    "17844432027759ccb8"
+    "17844432027759ccb8",
+    "1785678408705141ae"
   ]
 }
