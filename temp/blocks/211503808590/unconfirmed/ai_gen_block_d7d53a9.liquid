@@ -1,6 +1,459 @@
+{% doc %}
+  @prompt
+    Create a "Why Nestora AI Companion is Different" comparison section to be placed before an existing comparison table. The section should have a bold heading "Why Nestora AI Companion is Different" and display a styled comparison table with two columns: "Others" and "Nestora". The Nestora column should be visually highlighted with accent color. Rows: 1) English only vs Arabic + 65 Languages, 2) Screen-based vs Plush Companion, 3) Generic AI vs Interactive Conversations, 4) Hard to carry vs Pocket Size. Use a clean, premium, modern design with ✗ for Others and ✓ for Nestora to make the contrast clear at a glance.
+{% enddoc %}
+{% assign ai_gen_id = block.id | replace: '_', '' | downcase %}
+
+{% style %}
+  .ai-comparison-section-{{ ai_gen_id }} {
+    width: {{ block.settings.desktop_width_percent }}%;
+    max-width: 100%;
+    padding: {{ block.settings.section_padding }}px 20px;
+    display: block;
+  }
+
+  .ai-comparison-heading-{{ ai_gen_id }} {
+    font-size: {{ block.settings.heading_size }}px;
+    font-weight: 700;
+    margin: 0 0 {{ block.settings.heading_spacing }}px;
+    text-align: {{ block.settings.heading_alignment }};
+    color: {{ block.settings.heading_color }};
+  }
+
+  .ai-comparison-table-{{ ai_gen_id }} {
+    width: 100%;
+    border-collapse: separate;
+    border-spacing: 0;
+    border: 1px solid {{ block.settings.border_color }};
+    border-radius: {{ block.settings.border_radius }}px;
+    overflow: hidden;
+    background-color: {{ block.settings.table_background }};
+  }
+
+  .ai-comparison-table-{{ ai_gen_id }} thead th {
+    padding: {{ block.settings.cell_padding }}px;
+    font-size: {{ block.settings.header_font_size }}px;
+    font-weight: 600;
+    text-align: center;
+    border-bottom: 2px solid {{ block.settings.border_color }};
+    background-color: {{ block.settings.header_background }};
+    color: {{ block.settings.header_text_color }};
+  }
+
+  .ai-comparison-table-{{ ai_gen_id }} thead th:first-child {
+    border-right: 1px solid {{ block.settings.border_color }};
+  }
+
+  .ai-comparison-table-{{ ai_gen_id }} thead th:last-child {
+    background-color: {{ block.settings.accent_color }};
+    color: {{ block.settings.accent_text_color }};
+  }
+
+  .ai-comparison-table-{{ ai_gen_id }} tbody tr {
+    border-bottom: 1px solid {{ block.settings.border_color }};
+  }
+
+  .ai-comparison-table-{{ ai_gen_id }} tbody tr:last-child {
+    border-bottom: none;
+  }
+
+  .ai-comparison-table-{{ ai_gen_id }} tbody td {
+    padding: {{ block.settings.cell_padding }}px;
+    font-size: {{ block.settings.body_font_size }}px;
+    text-align: center;
+    vertical-align: middle;
+    color: {{ block.settings.body_text_color }};
+  }
+
+  .ai-comparison-table-{{ ai_gen_id }} tbody td:first-child {
+    border-right: 1px solid {{ block.settings.border_color }};
+    background-color: {{ block.settings.others_background }};
+  }
+
+  .ai-comparison-table-{{ ai_gen_id }} tbody td:last-child {
+    background-color: {{ block.settings.nestora_background }};
+  }
+
+  .ai-comparison-icon-{{ ai_gen_id }} {
+    font-size: {{ block.settings.icon_size }}px;
+    font-weight: 700;
+    display: inline-block;
+  }
+
+  .ai-comparison-icon-{{ ai_gen_id }}.negative {
+    color: {{ block.settings.negative_icon_color }};
+  }
+
+  .ai-comparison-icon-{{ ai_gen_id }}.positive {
+    color: {{ block.settings.positive_icon_color }};
+  }
+
+  @media screen and (max-width: 749px) {
+    .ai-comparison-heading-{{ ai_gen_id }} {
+      font-size: {{ block.settings.heading_size | times: 0.8 }}px;
+    }
+
+    .ai-comparison-table-{{ ai_gen_id }} thead th {
+      font-size: {{ block.settings.header_font_size | times: 0.9 }}px;
+      padding: {{ block.settings.cell_padding | times: 0.7 }}px;
+    }
+
+    .ai-comparison-table-{{ ai_gen_id }} tbody td {
+      font-size: {{ block.settings.body_font_size | times: 0.9 }}px;
+      padding: {{ block.settings.cell_padding | times: 0.7 }}px;
+    }
+
+    .ai-comparison-icon-{{ ai_gen_id }} {
+      font-size: {{ block.settings.icon_size | times: 0.9 }}px;
+    }
+  }
+{% endstyle %}
+
+<div class="ai-comparison-section-{{ ai_gen_id }}" {{ block.shopify_attributes }}>
+  <h2 class="ai-comparison-heading-{{ ai_gen_id }}">{{ block.settings.heading }}</h2>
+  
+  <table class="ai-comparison-table-{{ ai_gen_id }}">
+    <thead>
+      <tr>
+        <th>{{ block.settings.others_label }}</th>
+        <th>{{ block.settings.nestora_label }}</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>
+          <span class="ai-comparison-icon-{{ ai_gen_id }} negative">✗</span>
+          {{ block.settings.row_1_others }}
+        </td>
+        <td>
+          <span class="ai-comparison-icon-{{ ai_gen_id }} positive">✓</span>
+          {{ block.settings.row_1_nestora }}
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <span class="ai-comparison-icon-{{ ai_gen_id }} negative">✗</span>
+          {{ block.settings.row_2_others }}
+        </td>
+        <td>
+          <span class="ai-comparison-icon-{{ ai_gen_id }} positive">✓</span>
+          {{ block.settings.row_2_nestora }}
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <span class="ai-comparison-icon-{{ ai_gen_id }} negative">✗</span>
+          {{ block.settings.row_3_others }}
+        </td>
+        <td>
+          <span class="ai-comparison-icon-{{ ai_gen_id }} positive">✓</span>
+          {{ block.settings.row_3_nestora }}
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <span class="ai-comparison-icon-{{ ai_gen_id }} negative">✗</span>
+          {{ block.settings.row_4_others }}
+        </td>
+        <td>
+          <span class="ai-comparison-icon-{{ ai_gen_id }} positive">✓</span>
+          {{ block.settings.row_4_nestora }}
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
 {% schema %}
- {
-   "name": "AI_Block",
-   "tag": "shopify-ai-generated-block"
- }
+{
+  "name": "Nestora comparison",
+  "tag": null,
+  "settings": [
+    {
+      "type": "header",
+      "content": "Heading"
+    },
+    {
+      "type": "inline_richtext",
+      "id": "heading",
+      "label": "Heading",
+      "default": "Why Nestora AI Companion is Different"
+    },
+    {
+      "type": "range",
+      "id": "heading_size",
+      "min": 16,
+      "max": 48,
+      "step": 2,
+      "unit": "px",
+      "label": "Heading size",
+      "default": 32
+    },
+    {
+      "type": "range",
+      "id": "heading_spacing",
+      "min": 10,
+      "max": 50,
+      "step": 5,
+      "unit": "px",
+      "label": "Spacing below heading",
+      "default": 30
+    },
+    {
+      "type": "select",
+      "id": "heading_alignment",
+      "label": "Heading alignment",
+      "options": [
+        {
+          "value": "left",
+          "label": "Left"
+        },
+        {
+          "value": "center",
+          "label": "Center"
+        },
+        {
+          "value": "right",
+          "label": "Right"
+        }
+      ],
+      "default": "center"
+    },
+    {
+      "type": "color",
+      "id": "heading_color",
+      "label": "Heading color",
+      "default": "#000000"
+    },
+    {
+      "type": "header",
+      "content": "Table headers"
+    },
+    {
+      "type": "inline_richtext",
+      "id": "others_label",
+      "label": "Others column label",
+      "default": "Others"
+    },
+    {
+      "type": "inline_richtext",
+      "id": "nestora_label",
+      "label": "Nestora column label",
+      "default": "Nestora"
+    },
+    {
+      "type": "range",
+      "id": "header_font_size",
+      "min": 12,
+      "max": 24,
+      "step": 1,
+      "unit": "px",
+      "label": "Header font size",
+      "default": 18
+    },
+    {
+      "type": "header",
+      "content": "Row 1"
+    },
+    {
+      "type": "text",
+      "id": "row_1_others",
+      "label": "Others",
+      "default": "English only"
+    },
+    {
+      "type": "text",
+      "id": "row_1_nestora",
+      "label": "Nestora",
+      "default": "Arabic + 65 Languages"
+    },
+    {
+      "type": "header",
+      "content": "Row 2"
+    },
+    {
+      "type": "text",
+      "id": "row_2_others",
+      "label": "Others",
+      "default": "Screen-based"
+    },
+    {
+      "type": "text",
+      "id": "row_2_nestora",
+      "label": "Nestora",
+      "default": "Plush Companion"
+    },
+    {
+      "type": "header",
+      "content": "Row 3"
+    },
+    {
+      "type": "text",
+      "id": "row_3_others",
+      "label": "Others",
+      "default": "Generic AI"
+    },
+    {
+      "type": "text",
+      "id": "row_3_nestora",
+      "label": "Nestora",
+      "default": "Interactive Conversations"
+    },
+    {
+      "type": "header",
+      "content": "Row 4"
+    },
+    {
+      "type": "text",
+      "id": "row_4_others",
+      "label": "Others",
+      "default": "Hard to carry"
+    },
+    {
+      "type": "text",
+      "id": "row_4_nestora",
+      "label": "Nestora",
+      "default": "Pocket Size"
+    },
+    {
+      "type": "header",
+      "content": "Style"
+    },
+    {
+      "type": "range",
+      "id": "desktop_width_percent",
+      "label": "Desktop width",
+      "min": 50,
+      "max": 100,
+      "step": 5,
+      "unit": "%",
+      "default": 100
+    },
+    {
+      "type": "range",
+      "id": "section_padding",
+      "min": 0,
+      "max": 80,
+      "step": 5,
+      "unit": "px",
+      "label": "Section padding",
+      "default": 40
+    },
+    {
+      "type": "range",
+      "id": "cell_padding",
+      "min": 10,
+      "max": 40,
+      "step": 2,
+      "unit": "px",
+      "label": "Cell padding",
+      "default": 20
+    },
+    {
+      "type": "range",
+      "id": "body_font_size",
+      "min": 12,
+      "max": 20,
+      "step": 1,
+      "unit": "px",
+      "label": "Body font size",
+      "default": 16
+    },
+    {
+      "type": "range",
+      "id": "icon_size",
+      "min": 14,
+      "max": 28,
+      "step": 2,
+      "unit": "px",
+      "label": "Icon size",
+      "default": 20
+    },
+    {
+      "type": "range",
+      "id": "border_radius",
+      "min": 0,
+      "max": 20,
+      "step": 2,
+      "unit": "px",
+      "label": "Border radius",
+      "default": 8
+    },
+    {
+      "type": "header",
+      "content": "Colors"
+    },
+    {
+      "type": "color",
+      "id": "table_background",
+      "label": "Table background",
+      "default": "#FFFFFF"
+    },
+    {
+      "type": "color",
+      "id": "header_background",
+      "label": "Header background",
+      "default": "#F6F6F6"
+    },
+    {
+      "type": "color",
+      "id": "header_text_color",
+      "label": "Header text",
+      "default": "#000000"
+    },
+    {
+      "type": "color",
+      "id": "accent_color",
+      "label": "Nestora header background",
+      "default": "#FB8500"
+    },
+    {
+      "type": "color",
+      "id": "accent_text_color",
+      "label": "Nestora header text",
+      "default": "#FFFFFF"
+    },
+    {
+      "type": "color",
+      "id": "others_background",
+      "label": "Others column background",
+      "default": "#FFFFFF"
+    },
+    {
+      "type": "color",
+      "id": "nestora_background",
+      "label": "Nestora column background",
+      "default": "#FFF8F0"
+    },
+    {
+      "type": "color",
+      "id": "body_text_color",
+      "label": "Body text",
+      "default": "#525151"
+    },
+    {
+      "type": "color",
+      "id": "border_color",
+      "label": "Border",
+      "default": "#F2F2F2"
+    },
+    {
+      "type": "color",
+      "id": "negative_icon_color",
+      "label": "Negative icon (✗)",
+      "default": "#CE021E"
+    },
+    {
+      "type": "color",
+      "id": "positive_icon_color",
+      "label": "Positive icon (✓)",
+      "default": "#058942"
+    }
+  ],
+  "presets": [
+    {
+      "name": "Nestora comparison"
+    }
+  ]
+}
 {% endschema %}
