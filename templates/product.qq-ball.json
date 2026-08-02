@@ -23,7 +23,7 @@
             "badge_2_icon": "truck",
             "alignment": "flex-start",
             "mobile_alignment": "flex-start",
-            "badge_spacing": 8,
+            "badge_spacing": 10,
             "background_color": "#f8f4ee",
             "text_color": "#3a312b",
             "border_color": "#f8f4ee",
@@ -79,7 +79,7 @@
         "html_bm7Qqj": {
           "type": "html",
           "settings": {
-            "custom_html": "<style>\n  #template--21200282058830__main__html_bm7Qqj {\n    font-weight: bold;\n    font-size: 1.2em;\n  }\n  \n  #template--21200282058830__main__html_bm7Qqj * {\n    font-weight: bold;\n    font-size: 1.2em;\n  }\n</style>"
+            "custom_html": "<div class=\"product-highlights\" style=\"margin: 20px 0; padding: 16px 0; border-top: 1px solid #e9e4dc; border-bottom: 1px solid #e9e4dc;\">\n  <div style=\"font-size: 20px; line-height: 2; color: #6e6e6e; font-weight: 700; letter-spacing: 0.3px;\">\n    \n\n    <div style=\"margin-bottom: 10px;\">🚚 Free Delivery All Over Lebanon</div>\n    <div>💵 Cash on Delivery</div>\n  </div>\n</div>"
           }
         },
         "html_riyhhe": {
@@ -145,7 +145,7 @@
         "html_kd69QB": {
           "type": "html",
           "settings": {
-            "custom_html": "<div style=\"margin-top: 24px; padding: 20px 0; text-align: left; font-size: 16px; line-height: 1.8; letter-spacing: 0.3px;\"><p style=\"margin: 0; font-weight: 600; color: #1f1f1f;\"><span style=\"color: #3fae7c;\">✔</span> Secure Checkout</p><p style=\"margin: 0; font-weight: 600; color: #1f1f1f;\"><span style=\"color: #3fae7c;\">✔</span> Cash on Delivery</p><p style=\"margin: 0; font-weight: 600; color: #1f1f1f;\"><span style=\"color: #3fae7c;\">✔</span> Free Delivery Across Lebanon</p><p style=\"margin: 0; font-weight: 600; color: #1f1f1f;\"><span style=\"color: #3fae7c;\">✔</span> Dedicated Customer Support</p></div></div>"
+            "custom_html": "<div style=\"margin-top: 24px; padding: 20px 0; text-align: left; font-size: 20px; line-height: 1.8; letter-spacing: 0.3px;\"><p style=\"margin: 0; font-weight: 600; color: #1f1f1f;\"><span style=\"color: #3fae7c;\">✔</span> Secure Checkout</p><p style=\"margin: 0; font-weight: 600; color: #1f1f1f;\"><span style=\"color: #3fae7c;\">✔</span> Cash on Delivery</p><p style=\"margin: 0; font-weight: 600; color: #1f1f1f;\"><span style=\"color: #3fae7c;\">✔</span> Free Delivery Across Lebanon</p><p style=\"margin: 0; font-weight: 600; color: #1f1f1f;\"><span style=\"color: #3fae7c;\">✔</span> Dedicated Customer Support</p></div></div>"
           }
         },
         "feature_icon_99BxnX": {
