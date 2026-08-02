@@ -21,8 +21,8 @@
             "show_badge_2": true,
             "badge_2_text": "Free Delivery",
             "badge_2_icon": "truck",
-            "alignment": "flex-start",
-            "mobile_alignment": "flex-start",
+            "alignment": "center",
+            "mobile_alignment": "center",
             "badge_spacing": 10,
             "background_color": "#f8f4ee",
             "text_color": "#3a312b",
@@ -949,15 +949,15 @@
             "subtitle_2": "On all orders this week",
             "icon_size": 50,
             "icon_size_mobile": 40,
-            "icon_background_color": "#FB8500",
+            "icon_background_color": "#fb8500",
             "icon_color": "#000000",
             "title_size": 24,
             "title_size_mobile": 18,
             "title_weight": "700",
-            "title_color": "#FFFFFF",
+            "title_color": "#ffffff",
             "subtitle_size": 14,
             "subtitle_size_mobile": 12,
-            "subtitle_color": "#CCCCCC"
+            "subtitle_color": "#cccccc"
           },
           "blocks": {}
         }
