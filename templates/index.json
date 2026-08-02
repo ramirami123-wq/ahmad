@@ -12,21 +12,21 @@
     "fe5dccd3-17fd-4fd3-ada9-a0e11305981c": {
       "type": "slideshow",
       "blocks": {
-        "slide_nWHEQB": {
+        "slide_m77Mnk": {
           "type": "slide",
           "settings": {
-            "image": "shopify://shop_images/ChatGPT_Image_Jul_1_2026_12_52_35_PM.png",
-            "image_mobile": "shopify://shop_images/ChatGPT_Image_Jul_1_2026_01_01_28_PM.png",
+            "image": "shopify://shop_images/ChatGPT_Image_Aug_2_2026_02_13_33_PM.png",
+            "image_mobile": "shopify://shop_images/ChatGPT_Image_Aug_2_2026_02_13_33_PM.png",
             "image_link": "",
             "open_new_window_image": false,
             "overlay_opacity": 0,
             "enable_bakground": false,
             "subheading": "",
-            "heading": "Invisible Protection. Visible Style",
+            "heading": "Meet Your New AI Companion",
             "highlight_type": "underline",
             "heading_size": 170,
             "heading_tag": "h2",
-            "text": "<h3></h3><p>Elegant design meets plant-powered protection.<br/><br/>Perfect for travel, outdoor activities, and everyday wear.</p>",
+            "text": "<h3></h3><p><br/>Speaks Arabic and 65+ languages. Interactive conversations, stories, and learning—wherever life takes you.<br/><br/></p>",
             "button_label_1": "Shop collection",
             "button_link_1": "shopify://collections/all",
             "open_new_window_button": false,
@@ -54,21 +54,22 @@
             "color_heading_highlight_light": "rgba(0,0,0,0)"
           }
         },
-        "slide_m77Mnk": {
+        "slide_nWHEQB": {
           "type": "slide",
+          "disabled": true,
           "settings": {
-            "image": "shopify://shop_images/ChatGPT_Image_Aug_2_2026_02_13_33_PM.png",
-            "image_mobile": "shopify://shop_images/ChatGPT_Image_Aug_2_2026_02_13_33_PM.png",
+            "image": "shopify://shop_images/ChatGPT_Image_Jul_1_2026_12_52_35_PM.png",
+            "image_mobile": "shopify://shop_images/ChatGPT_Image_Jul_1_2026_01_01_28_PM.png",
             "image_link": "",
             "open_new_window_image": false,
             "overlay_opacity": 0,
             "enable_bakground": false,
             "subheading": "",
-            "heading": "Meet Your New AI Companion",
+            "heading": "Invisible Protection. Visible Style",
             "highlight_type": "underline",
             "heading_size": 170,
             "heading_tag": "h2",
-            "text": "<h3></h3><p><br/>Speaks Arabic and 65+ languages. Interactive conversations, stories, and learning—wherever life takes you.<br/><br/></p>",
+            "text": "<h3></h3><p>Elegant design meets plant-powered protection.<br/><br/>Perfect for travel, outdoor activities, and everyday wear.</p>",
             "button_label_1": "Shop collection",
             "button_link_1": "shopify://collections/all",
             "open_new_window_button": false,
@@ -141,8 +142,8 @@
         }
       },
       "block_order": [
-        "slide_nWHEQB",
         "slide_m77Mnk",
+        "slide_nWHEQB",
         "971b1015-ef28-4d4a-a43c-646bfd6da4a0"
       ],
       "settings": {
@@ -263,6 +264,7 @@
       "block_order": [
         "collection_rrFREJ"
       ],
+      "disabled": true,
       "name": "t:sections.featured-collection.presets.name",
       "settings": {
         "title": "Featured collections",
