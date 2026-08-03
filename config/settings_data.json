@@ -143,7 +143,7 @@
     "colors_dark_speech": "#c9a35a",
     "advanced_show_breadcrumbs": true,
     "cart_page_layout": "side",
-    "cart_type": "popup",
+    "cart_type": "drawer",
     "cart_icon": "icon-basket",
     "cart_show_vendor": false,
     "show_cart_note": true,
