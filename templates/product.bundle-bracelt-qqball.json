@@ -60,7 +60,7 @@
         "html_DK78JD": {
           "type": "html",
           "settings": {
-            "custom_html": "<div class=\"social-proof-badge\">\n  <span class=\"stars\">⭐⭐⭐⭐⭐</span>\n  <span class=\"text\" style=\"font-weight: bold;\">Premium Customer Experience</span>"
+            "custom_html": "<div class=\"social-proof-badge\">\n  <span \n  <span class=\"text\" style=\"font-weight: bold;font-size: 24px\">🔥 Only 5 Bundles Available\n</span>"
           }
         },
         "html_k6nFcL": {
