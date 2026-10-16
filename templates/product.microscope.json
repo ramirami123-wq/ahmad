@@ -385,7 +385,7 @@
       ],
       "name": "t:sections.image-with-text.presets.name",
       "settings": {
-        "image": "shopify://shop_images/WhatsAppImage2026-10-16at3.11.12PM.jpg",
+        "image": "shopify://shop_images/WhatsAppImage2026-10-16at3.18.34PM.jpg",
         "show_sound_control": false,
         "video_url": "",
         "video_alt_text": "",
@@ -479,7 +479,7 @@
             "highlight_type": "underline",
             "heading_base_size": 100,
             "heading_tag": "h2",
-            "text": "<p>✔ Curious kids who love asking questions</p><p>✔ Story time before bedtime</p><p>✔ Language practice and communication</p><p>✔ Fun everyday conversations</p>",
+            "text": "<p><strong>✔ Young explorers who love asking questions</strong></p><p><strong>✔ Outdoor nature walks & backyard discoveries</strong></p><p><strong>✔ Hands-on STEM learning & science experiments</strong></p><p><strong>✔ Interactive close-up inspections of everyday objects</strong></p>",
             "number_of_lines_shown": "none",
             "read_more_label": "Read more",
             "see_less_label": "See less",
