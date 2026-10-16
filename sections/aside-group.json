@@ -401,6 +401,12 @@
         "accept_button_background_dark": "#c9a35a",
         "accept_button_text_dark": "#151515"
       }
+    },
+    "17921545739e3c5a4d": {
+      "type": "apps",
+      "settings": {
+        "include_margins": true
+      }
     }
   },
   "order": [
@@ -408,6 +414,7 @@
     "quick-view",
     "popup-promotion",
     "popup-age-verification",
-    "cookie-banner"
+    "cookie-banner",
+    "17921545739e3c5a4d"
   ]
 }
