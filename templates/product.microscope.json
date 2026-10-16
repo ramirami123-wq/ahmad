@@ -775,6 +775,7 @@
         "frequently_asked_question_p9THCx",
         "frequently_asked_question_KdBJC7"
       ],
+      "disabled": true,
       "name": "t:sections.question_and_answer.presets.name",
       "settings": {
         "heading": "FAQs",
