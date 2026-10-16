@@ -105,43 +105,6 @@
             "color_icon_dark": "rgba(0,0,0,0)"
           }
         },
-        "buy_buttons": {
-          "type": "buy_buttons",
-          "settings": {
-            "show_button_style": "primary",
-            "show_dynamic_checkout": false,
-            "show_gift_card_recipient": true,
-            "pickup_availability": false,
-            "hide_when_pre_order": false,
-            "preorder_button_label": "Pre-order",
-            "preorder_message": "<p>This product will be available for sale in 2 weeks, but you can pre-order now to receive 10% discount!</p>",
-            "preorder_show_dynamic_button": false,
-            "show_background": false,
-            "box_type": "square",
-            "background_color_light": "rgba(0,0,0,0)",
-            "message_color_light": "rgba(0,0,0,0)",
-            "background_color_dark": "rgba(0,0,0,0)",
-            "message_color_dark": "rgba(0,0,0,0)",
-            "button_light": "#151515",
-            "button_text_light": "#ffffff",
-            "button_hover_light": "#151515",
-            "button_text_hover_light": "#ffffff",
-            "secondary_button_light": "#ffffff",
-            "secondary_button_text_light": "#151515",
-            "button_dark": "#c9a35a",
-            "button_text_dark": "#151515",
-            "button_hover_dark": "#c9a35a",
-            "button_text_hover_dark": "#151515",
-            "secondary_button_dark": "#ffffff",
-            "secondary_button_text_dark": "#151515"
-          }
-        },
-        "html_kd69QB": {
-          "type": "html",
-          "settings": {
-            "custom_html": "<div style=\"margin-top: 24px; padding: 20px 0; text-align: left; font-size: 20px; line-height: 1.8; letter-spacing: 0.3px;\"><p style=\"margin: 0; font-weight: 600; color: #1f1f1f;\"><span style=\"color: #3fae7c;\">✔</span> Secure Checkout</p><p style=\"margin: 0; font-weight: 600; color: #1f1f1f;\"><span style=\"color: #3fae7c;\">✔</span> Cash on Delivery</p><p style=\"margin: 0; font-weight: 600; color: #1f1f1f;\"><span style=\"color: #3fae7c;\">✔</span> Free Delivery Across Lebanon</p><p style=\"margin: 0; font-weight: 600; color: #1f1f1f;\"><span style=\"color: #3fae7c;\">✔</span> Dedicated Customer Support</p></div></div>"
-          }
-        },
         "feature_icon_99BxnX": {
           "type": "feature_icon",
           "settings": {
@@ -218,6 +181,43 @@
             "using_page_builder": false
           }
         },
+        "buy_buttons": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_button_style": "primary",
+            "show_dynamic_checkout": false,
+            "show_gift_card_recipient": true,
+            "pickup_availability": false,
+            "hide_when_pre_order": false,
+            "preorder_button_label": "Pre-order",
+            "preorder_message": "<p>This product will be available for sale in 2 weeks, but you can pre-order now to receive 10% discount!</p>",
+            "preorder_show_dynamic_button": false,
+            "show_background": false,
+            "box_type": "square",
+            "background_color_light": "rgba(0,0,0,0)",
+            "message_color_light": "rgba(0,0,0,0)",
+            "background_color_dark": "rgba(0,0,0,0)",
+            "message_color_dark": "rgba(0,0,0,0)",
+            "button_light": "#151515",
+            "button_text_light": "#ffffff",
+            "button_hover_light": "#151515",
+            "button_text_hover_light": "#ffffff",
+            "secondary_button_light": "#ffffff",
+            "secondary_button_text_light": "#151515",
+            "button_dark": "#c9a35a",
+            "button_text_dark": "#151515",
+            "button_hover_dark": "#c9a35a",
+            "button_text_hover_dark": "#151515",
+            "secondary_button_dark": "#ffffff",
+            "secondary_button_text_dark": "#151515"
+          }
+        },
+        "html_kd69QB": {
+          "type": "html",
+          "settings": {
+            "custom_html": "<div style=\"margin-top: 24px; padding: 20px 0; text-align: left; font-size: 20px; line-height: 1.8; letter-spacing: 0.3px;\"><p style=\"margin: 0; font-weight: 600; color: #1f1f1f;\"><span style=\"color: #3fae7c;\">✔</span> Secure Checkout</p><p style=\"margin: 0; font-weight: 600; color: #1f1f1f;\"><span style=\"color: #3fae7c;\">✔</span> Cash on Delivery</p><p style=\"margin: 0; font-weight: 600; color: #1f1f1f;\"><span style=\"color: #3fae7c;\">✔</span> Free Delivery Across Lebanon</p><p style=\"margin: 0; font-weight: 600; color: #1f1f1f;\"><span style=\"color: #3fae7c;\">✔</span> Dedicated Customer Support</p></div></div>"
+          }
+        },
         "description": {
           "type": "description",
           "settings": {
@@ -250,11 +250,11 @@
         "quantity_selector",
         "variant_picker_fN7Qyi",
         "gift_wrapping_EK3NQn",
-        "buy_buttons",
-        "html_kd69QB",
         "feature_icon_99BxnX",
         "pumper_bundles_app_block_bundle_wJJGFi",
         "pumper_bundles_app_block_qb_JJxxrD",
+        "buy_buttons",
+        "html_kd69QB",
         "description",
         "sticky-atc"
       ],
