@@ -385,7 +385,7 @@
       ],
       "name": "t:sections.image-with-text.presets.name",
       "settings": {
-        "image": "shopify://shop_images/WhatsAppImage2026-10-16at3.18.34PM.jpg",
+        "image": "shopify://shop_images/WhatsAppImage2026-10-16at3.18.34s.jpg",
         "show_sound_control": false,
         "video_url": "",
         "video_alt_text": "",
@@ -497,7 +497,7 @@
       ],
       "name": "t:sections.image-with-text.presets.name",
       "settings": {
-        "image": "shopify://shop_images/ChatGPT_Image_Jul_29_2026_07_38_04_AM.png",
+        "image": "shopify://shop_images/WhatsAppImage2026-10-16at3.18.34PM.jpg",
         "show_sound_control": false,
         "video_url": "",
         "video_alt_text": "",
@@ -657,7 +657,7 @@
         "criterion_rNJJc4": {
           "type": "criterion",
           "settings": {
-            "heading": "AI Conversations",
+            "heading": "Take photos",
             "criterion_detail_product": "Yes",
             "criterion_detail_externals": "No\nNo\nNo\nNo"
           }
@@ -665,7 +665,7 @@
         "criterion_4NELMY": {
           "type": "criterion",
           "settings": {
-            "heading": "Speaks Arabic",
+            "heading": "Record videos",
             "criterion_detail_product": "Yes",
             "criterion_detail_externals": "No\nNo\nNo\nNo"
           }
@@ -673,7 +673,7 @@
         "criterion_yUcU3i": {
           "type": "criterion",
           "settings": {
-            "heading": "Interactive Stories",
+            "heading": "Revisit discoveries",
             "criterion_detail_product": "Yes",
             "criterion_detail_externals": "No\nNo\nNo\nNo"
           }
@@ -681,7 +681,7 @@
         "criterion_kpnjbJ": {
           "type": "criterion",
           "settings": {
-            "heading": "Portable Keychain",
+            "heading": "Explore together",
             "criterion_detail_product": "Yes",
             "criterion_detail_externals": "No\nNo\nNo\nNo"
           }
@@ -703,7 +703,7 @@
         "description": "",
         "product": "{{ product }}",
         "alternative_text": "",
-        "external_item_labels": "Ordinary Plush",
+        "external_item_labels": "Traditional Magnifying Glass",
         "background_color_light": "#ffffff",
         "heading_light": "#121212",
         "color_heading_highlight_light": "rgba(0,0,0,0)",
