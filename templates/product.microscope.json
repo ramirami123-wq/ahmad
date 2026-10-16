@@ -82,12 +82,6 @@
             "custom_html": "<div class=\"product-highlights\" style=\"margin: 20px 0; padding: 16px 0; border-top: 1px solid #e9e4dc; border-bottom: 1px solid #e9e4dc;\">\n  <div style=\"font-size: 20px; line-height: 2; color: #6e6e6e; font-weight: 700; letter-spacing: 0.3px;\">\n    \n\n    <div style=\"margin-bottom: 10px;\">🚚 Free Delivery All Over Lebanon</div>\n    <div>💵 Cash on Delivery</div>\n  </div>\n</div>"
           }
         },
-        "html_riyhhe": {
-          "type": "html",
-          "settings": {
-            "custom_html": "<style>\n  .nestora-product-highlight {\n    background: linear-gradient(135deg, #FCFAF6 0%, #F2ECE3 100%);\n    border: 1px solid #E9E4DC;\n    border-radius: 8px;\n    padding: 32px;\n    margin: 24px 0;\n    text-align: center;\n  }\n  \n  .nestora-product-highlight h4 {\n    color: #1F1F1F;\n    font-size: 20px;\n    font-weight: 600;\n    margin-bottom: 12px;\n    letter-spacing: 0.5px;\n  }\n  \n  .nestora-product-highlight .feature-grid {\n    display: grid;\n    grid-template-columns: repeat(auto-fit, minmax(120px, 1fr));\n    gap: 16px;\n    margin-top: 20px;\n  }\n  \n  .nestora-product-highlight .feature-grid-item {\n    padding: 12px;\n    border-left: 3px solid #C9A35A;\n    text-align: left;\n  }\n  \n  .nestora-product-highlight .feature-grid-item strong {\n    color: #1F1F1F;\n    display: block;\n    font-size: 14px;\n    margin-bottom: 4px;\n  }\n  \n  .nestora-product-highlight .feature-grid-item span {\n    color: #6E6E6E;\n    font-size: 12px;\n  }\n\n  .nestora-product-highlight .feature-emoji {\n    font-size: 22px;\n    display: block;\n    margin-bottom: 6px;\n  }\n  \n  @media (max-width: 768px) {\n    .nestora-product-highlight {\n      padding: 20px;\n    }\n    \n    .nestora-product-highlight h4 {\n      font-size: 18px;\n    }\n    \n    .nestora-product-highlight .feature-grid {\n      grid-template-columns: repeat(2, 1fr);\n      gap: 12px;\n    }\n  }\n  \n  @media (prefers-color-scheme: dark) {\n    .nestora-product-highlight {\n      background: linear-gradient(135deg, #2A2A2A 0%, #1F1F1F 100%);\n      border-color: #3A3A3A;\n    }\n    \n    .nestora-product-highlight h4 {\n      color: #FCFAF6;\n    }\n    \n    .nestora-product-highlight .feature-grid-item {\n      border-left-color: #C9A35A;\n    }\n    \n    .nestora-product-highlight .feature-grid-item strong {\n      color: #FCFAF6;\n    }\n    \n    .nestora-product-highlight .feature-grid-item span {\n      color: #9E9E9E;\n    }\n  }\n</style>\n\n<div class=\"nestora-product-highlight\">\n  <h4>Why You'll Love It</h4>\n\n  <div class=\"feature-grid\">\n    <div class=\"feature-grid-item\">\n      <span class=\"feature-emoji\">🗣️</span>\n      <strong>Speaks Arabic</strong>\n      <span>Native Arabic support</span>\n    </div>\n    <div class=\"feature-grid-item\">\n      <span class=\"feature-emoji\">🌍</span>\n      <strong>65+ Languages</strong>\n      <span>Global communication</span>\n    </div>\n    <div class=\"feature-grid-item\">\n      <span class=\"feature-emoji\">🤖</span>\n      <strong>Interactive AI</strong>\n      <span>Smart conversations</span>\n    </div>\n    <div class=\"feature-grid-item\">\n      <span class=\"feature-emoji\">🎒</span>\n      <strong>Keychain Design</strong>\n      <span>Portable anywhere</span>\n    </div>\n    <div class=\"feature-grid-item\">\n      <span class=\"feature-emoji\">🧸</span>\n      <strong>Ultra Soft Plush</strong>\n      <span>Soft & luxurious</span>\n    </div>\n    <div class=\"feature-grid-item\">\n      <span class=\"feature-emoji\">🔋</span>\n      <strong>Rechargeable</strong>\n      <span>Always ready</span>\n    </div>\n  </div>\n</div>"
-          }
-        },
         "quantity_selector": {
           "type": "quantity_selector",
           "disabled": true,
@@ -239,7 +233,6 @@
         "html_k6nFcL",
         "price",
         "html_bm7Qqj",
-        "html_riyhhe",
         "quantity_selector",
         "variant_picker_fN7Qyi",
         "gift_wrapping_EK3NQn",
@@ -370,11 +363,11 @@
           "type": "heading",
           "settings": {
             "subheading": "",
-            "heading": "Meet Your AI Companion",
+            "heading": "Nestora Digital Pocket Microscope",
             "highlight_type": "underline",
             "heading_base_size": 100,
             "heading_tag": "h2",
-            "text": "<p>Nestora AI Companion is designed to interact naturally, support Arabic and more than 65 languages, and become your everyday intelligent companion.</p><p>🤖 AI Conversations<br/>Natural voice interaction.</p><p>📚 Stories & Learning<br/>Interactive stories and educational conversations.</p><p>🌍 65+ Languages<br/>Including full Arabic support.</p><p>🧸 Soft & Portable<br/>Take it anywhere as your everyday companion.</p>",
+            "text": "<p></p><p>Designed for young explorers to uncover the hidden details of nature, inspect everyday objects up close, and power curiosity wherever adventure leads.</p><p>🔍 <strong>1000X HD Zoom</strong></p><p>Ultra-clear magnification for fine details.</p><p>🖥️ <strong>2.0\" IPS Screen</strong></p><p>Vibrant, real-time display without eye strain.</p><p>💡 <strong>8 LED Lights</strong></p><p>Adjustable brightness for outdoor & indoor use.</p><p>🎒 <strong>Pocket Companion</strong></p><p>Durable, lightweight design to take anywhere.</p>",
             "number_of_lines_shown": "none",
             "read_more_label": "Read more",
             "see_less_label": "See less",
@@ -392,7 +385,7 @@
       ],
       "name": "t:sections.image-with-text.presets.name",
       "settings": {
-        "image": "shopify://shop_images/1784116234_phpl48ugmpl1bk86BXLM9c_f6323fde-0908-4ae8-a372-8936841b0791.png",
+        "image": "shopify://shop_images/WhatsAppImage2026-10-16at3.11.12PM.jpg",
         "show_sound_control": false,
         "video_url": "",
         "video_alt_text": "",
